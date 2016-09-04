@@ -1,0 +1,259 @@
+[
+    {
+        "code": "ALM",
+        "name": "AG2R La Mondiale",
+        "country": "FRA",
+        "category": "World Tour",
+        "roster": [
+            {
+                "firstname": "Gediminas",
+                "lastname": "Bagdonas",
+                "country": "LTU"
+            },{
+                "firstname": "Jan",
+                "lastname": "Bakelants",
+                "country": "BEL"
+            },{
+                "firstname": "Romain",
+                "lastname": "Bardet",
+                "country": "FRA"
+            },{
+                "firstname": "François",
+                "lastname": "Bidard",
+                "country": "FRA"
+            },{
+                "firstname": "Guillaume",
+                "lastname": "Bonnafond",
+                "country": "FRA"
+            },{
+                "firstname": "Julien",
+                "lastname": "Bérard",
+                "country": "FRA"
+            },{
+                "firstname": "Mikaël",
+                "lastname": "Cherel",
+                "country": "FRA"
+            },{
+                "firstname": "Maxime",
+                "lastname": "Daniel",
+                "country": "FRA"
+            },{
+                "firstname": "Nico",
+                "lastname": "Denz",
+                "country": "GER"
+            },{
+                "firstname": "Axel",
+                "lastname": "Domont",
+                "country": "FRA"
+            },{
+                "firstname": "Samuel",
+                "lastname": "Dumoulin",
+                "country": "FRA"
+            },{
+                "firstname": "Hubert",
+                "lastname": "Dupont",
+                "country": "FRA"
+            },{
+                "firstname": "Ben",
+                "lastname": "Gastauer",
+                "country": "LUX"
+            },{
+                "firstname": "Damien",
+                "lastname": "Gaudin",
+                "country": "FRA"
+            },{
+                "firstname": "Cyril",
+                "lastname": "Gautier",
+                "country": "FRA"
+            },{
+                "firstname": "Alexis",
+                "lastname": "Gougeard",
+                "country": "FRA"
+            },{
+                "firstname": "Patrick",
+                "lastname": "Gretsch",
+                "country": "GER"
+            },{
+                "firstname": "Hugo",
+                "lastname": "Houle",
+                "country": "CAN"
+            },{
+                "firstname": "Quentin",
+                "lastname": "Jaurégui",
+                "country": "FRA"
+            },{
+                "firstname": "Blel",
+                "lastname": "Kadri",
+                "country": "FRA"
+            },{
+                "firstname": "Pierre-Roger",
+                "lastname": "Latour",
+                "country": "FRA"
+            },{
+                "firstname": "Sébastien",
+                "lastname": "Minard",
+                "country": "FRA"
+            },{
+                "firstname": "Matteo",
+                "lastname": "Montaguti",
+                "country": "ITA"
+            },{
+                "firstname": "Jean-Christophe",
+                "lastname": "Péraud",
+                "country": "FRA"
+            },{
+                "firstname": "Domenico",
+                "lastname": "Pozzovivo",
+                "country": "ITA"
+            },{
+                "firstname": "Christophe",
+                "lastname": "Riblon",
+                "country": "FRA"
+            },{
+                "firstname": "Jesse",
+                "lastname": "Sergent",
+                "country": "NZL"
+            },{
+                "firstname": "Sébastien",
+                "lastname": "Turgot",
+                "country": "FRA"
+            },{
+                "firstname": "Johan",
+                "lastname": "Vansummeren",
+                "country": "BEL"
+            },{
+                "firstname": "Alexis",
+                "lastname": "Vuillermoz",
+                "country": "FRA"
+            }
+        ]
+    },{
+        "code": "",
+        "name": "",
+        "country": "",
+        "category": "",
+        "roster": [
+            {
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            },{
+                "firstname": "",
+                "lastname": "",
+                "country": ""
+            }
+        ]
+    }
+]
