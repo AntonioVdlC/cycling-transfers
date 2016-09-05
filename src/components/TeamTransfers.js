@@ -1,6 +1,6 @@
 import React from "react"
 
-import TeamTransfersDetails from "./TeamTransfersDetails"
+import TeamTransferDetails from "./TeamTransferDetails"
 
 const TeamTransfers = React.createClass({
     render() {
@@ -8,7 +8,7 @@ const TeamTransfers = React.createClass({
         return (
             <div>
                 {types.map((type) =>
-                    <TeamTransfersDetails 
+                    <TeamTransferDetails 
                         key={type + "-details"}
                         type={`${type}`} 
                         transfers={this.props.transfers[type]} 

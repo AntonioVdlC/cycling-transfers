@@ -8,3 +8,21 @@ body {
     height: 1.75em;
     float: left;
 }
+
+.flag {
+    height: 1em;
+    width: 1.5em;
+}
+
+.transfer-details {
+    margin: 1.5em;
+}
+.transfer-details-list {
+    padding-left: 5em;
+    list-style: none;
+}
+
+.transfer-logo {
+    width: 2.7em;
+    float: left;
+}
