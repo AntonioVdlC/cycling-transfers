@@ -1,7 +1,7 @@
 import React from "react"
 
 import TeamInfo from "./TeamInfo"
-import TeamRoster from "./TeamRoster"
+import TeamTransfers from "./TeamTransfers"
 
 const TeamCard = React.createClass({
     render() {
@@ -11,8 +11,8 @@ const TeamCard = React.createClass({
                     name={this.props.team.name} 
                     country={this.props.team.country} 
                 />
-                <TeamRoster
-                    roster={this.props.roster}
+                <TeamTransfers
+                    transfers={this.props.transfers}
                 />
             </li>
         )

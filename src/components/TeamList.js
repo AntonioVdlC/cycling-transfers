@@ -10,7 +10,7 @@ const TeamList = React.createClass({
                     <TeamCard 
                         key={team.code} 
                         team={team} 
-                        roster={this.props.rosters[team.code]} 
+                        transfers={this.props.transfers[team.code]} 
                     />
                 )}
             </ul>
