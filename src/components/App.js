@@ -10,16 +10,14 @@ const App = React.createClass({
     getInitialState() {
         return {
             teams: [],
-            rosters: {},
-            transfers: []
+            rosters: {}
         }
     },
 
     componentDidMount() {
         const urls = [
             "/api/teams",
-            "/api/rosters",
-            "/api/transfers"           
+            "/api/rosters"          
         ]
 
         Promise.all(urls.map(url => 
@@ -27,8 +25,7 @@ const App = React.createClass({
         )).then(data => {
             this.setState({
                 teams: data[0],
-                rosters: data[1],
-                transfers: data[2]
+                rosters: data[1]
             })
         })
     },
@@ -40,8 +37,7 @@ const App = React.createClass({
                 <TeamSelector teams={this.state.teams} />
                 <TeamList 
                     teams={this.state.teams} 
-                    rosters={this.state.rosters} 
-                    transfers={this.state.transfers}
+                    rosters={this.state.rosters}
                 />
             </div>
         )

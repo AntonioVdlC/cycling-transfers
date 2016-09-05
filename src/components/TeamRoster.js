@@ -1,6 +1,6 @@
 import React from "react"
 
-const TeamTransfers = React.createClass({
+const TeamRoster = React.createClass({
     render() {
         return (
             <ol>
@@ -9,4 +9,4 @@ const TeamTransfers = React.createClass({
     }
 })
 
-export default TeamTransfers
+export default TeamRoster

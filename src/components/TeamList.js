@@ -6,9 +6,13 @@ const TeamList = React.createClass({
     render() {
         return (
             <ul>
-                {this.props.teams.map(team => {
-                    return <TeamCard key={team.code} team={team} roster={this.props.rosters[team.code]} />
-                })}
+                {this.props.teams.map(team => 
+                    <TeamCard 
+                        key={team.code} 
+                        team={team} 
+                        roster={this.props.rosters[team.code]} 
+                    />
+                )}
             </ul>
         )
     }
