@@ -4,7 +4,7 @@ const TeamInfo = React.createClass({
     render() {
         return (
             <span>
-                {this.props.name} - {this.props.country}
+                {this.props.team.country} - {this.props.team.name} ({this.props.team.code})
             </span>
         )
     }

@@ -7,13 +7,8 @@ const TeamCard = React.createClass({
     render() {
         return (
             <li>
-                <TeamInfo 
-                    name={this.props.team.name} 
-                    country={this.props.team.country} 
-                />
-                <TeamTransfers
-                    transfers={this.props.transfers}
-                />
+                <TeamInfo team={this.props.team} />
+                <TeamTransfers transfers={this.props.transfers} />
             </li>
         )
     }
