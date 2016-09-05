@@ -126,6 +126,120 @@
         "from": "EQS",
         "to": "ALM"
     },{
+        "firstname": "Lars",
+        "lastname": "Boom",
+        "country": "NED",
+        "from": "AST",
+        "to": "TLJ"
+    },{
+        "firstname": "Eros",
+        "lastname": "Capecchi",
+        "country": "ITA",
+        "from": "AST",
+        "to": "EQS"
+    },{
+        "firstname": "Laurens",
+        "lastname": "De Vreese",
+        "country": "BEL",
+        "from": "AST",
+        "to": "AST"
+    },{
+        "firstname": "Daniil",
+        "lastname": "Fominykh",
+        "country": "KAZ",
+        "from": "AST",
+        "to": "AST"
+    },{
+        "firstname": "Dmitriy",
+        "lastname": "Gruzdev",
+        "country": "KAZ",
+        "from": "AST",
+        "to": "AST"
+    },{
+        "firstname": "Tanel",
+        "lastname": "Kangert",
+        "country": "EST",
+        "from": "AST",
+        "to": "AST"
+    },{
+        "firstname": "Miguel Ángel",
+        "lastname": "López Moreno",
+        "country": "COL",
+        "from": "AST",
+        "to": "AST"
+    },{
+        "firstname": "Alexey",
+        "lastname": "Lutsenko",
+        "country": "KAZ",
+        "from": "AST",
+        "to": "AST"
+    },{
+        "firstname": "Vincenzo",
+        "lastname": "Nibali",
+        "country": "ITA",
+        "from": "AST",
+        "to": "BAH"
+    },{
+        "firstname": "Michele",
+        "lastname": "Scarponi",
+        "country": "ITA",
+        "from": "AST",
+        "to": "AST"
+    },{
+        "firstname": "Valerio",
+        "lastname": "Agnoli",
+        "country": "ITA",
+        "from": "AST",
+        "to": "?"
+    },{
+        "firstname": "Andrea",
+        "lastname": "Guardini",
+        "country": "ITA",
+        "from": "AST",
+        "to": "?"
+    },{
+        "firstname": "Diego",
+        "lastname": "Rosa",
+        "country": "ITA",
+        "from": "AST",
+        "to": "?"
+    },{
+        "firstname": "Alessandro",
+        "lastname": "Vanotti",
+        "country": "ITA",
+        "from": "AST",
+        "to": "?"
+    },{
+        "firstname": "Oscar",
+        "lastname": "Gatto",
+        "country": "ITA",
+        "from": "TNK",
+        "to": "AST"
+    },{
+        "firstname": "Jesper",
+        "lastname": "Hansen",
+        "country": "DEN",
+        "from": "TNK",
+        "to": "AST"
+    },{
+        "firstname": "Moreno",
+        "lastname": "Moser",
+        "country": "ITA",
+        "from": "CPT",
+        "to": "AST"
+    },{
+        "firstname": "Michael",
+        "lastname": "Valgren Andersen",
+        "country": "DEN",
+        "from": "TNK",
+        "to": "AST"
+    },{
+        "firstname": "Oleg",
+        "lastname": "Zemlyakov",
+        "country": "KAZ",
+        "from": "-",
+        "to": "AST"
+    },{
         "firstname": "",
         "lastname": "",
         "country": "",

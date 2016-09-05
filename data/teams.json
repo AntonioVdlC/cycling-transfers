@@ -128,6 +128,126 @@
             }
         ]
     },{
+        "code": "AST",
+        "name": "Astana Pro Team",
+        "country": "KAZ",
+        "category": "World Tour",
+        "roster": [
+            {
+                "firstname": "Valerio",
+                "lastname": "Agnoli",
+                "country": "ITA"
+            },{
+                "firstname": "Fabio",
+                "lastname": "Aru",
+                "country": "ITA"
+            },{
+                "firstname": "Maxat",
+                "lastname": "Ayazbayev",
+                "country": "KAZ"
+            },{
+                "firstname": "Lars",
+                "lastname": "Boom",
+                "country": "NED"
+            },{
+                "firstname": "Eros",
+                "lastname": "Capecchi",
+                "country": "ITA"
+            },{
+                "firstname": "Dario",
+                "lastname": "Cataldo",
+                "country": "ITA"
+            },{
+                "firstname": "Laurens",
+                "lastname": "De Vreese",
+                "country": "BEL"
+            },{
+                "firstname": "Daniil",
+                "lastname": "Fominykh",
+                "country": "KAZ"
+            },{
+                "firstname": "Jakob",
+                "lastname": "Fuglsang",
+                "country": "DEN"
+            },{
+                "firstname": "Andriy",
+                "lastname": "Grivko",
+                "country": "UKR"
+            },{
+                "firstname": "Dmitriy",
+                "lastname": "Gruzdev",
+                "country": "KAZ"
+            },{
+                "firstname": "Andrea",
+                "lastname": "Guardini",
+                "country": "ITA"
+            },{
+                "firstname": "Arman",
+                "lastname": "Kamyshev",
+                "country": "KAZ"
+            },{
+                "firstname": "Tanel",
+                "lastname": "Kangert",
+                "country": "EST"
+            },{
+                "firstname": "Bakhtiyar",
+                "lastname": "Kozhatayev",
+                "country": "KAZ"
+            },{
+                "firstname": "Miguel Ángel",
+                "lastname": "López Moreno",
+                "country": "COL"
+            },{
+                "firstname": "Alexey",
+                "lastname": "Lutsenko",
+                "country": "KAZ"
+            },{
+                "firstname": "Davide",
+                "lastname": "Malacarne",
+                "country": "ITA"
+            },{
+                "firstname": "Vincenzo",
+                "lastname": "Nibali",
+                "country": "ITA"
+            },{
+                "firstname": "Diego",
+                "lastname": "Rosa",
+                "country": "ITA"
+            },{
+                "firstname": "Luis Leon",
+                "lastname": "Sanchez  Gil",
+                "country": "ESP"
+            },{
+                "firstname": "Michele",
+                "lastname": "Scarponi",
+                "country": "ITA"
+            },{
+                "firstname": "Gatis",
+                "lastname": "Smukulis",
+                "country": "LAT"
+            },{
+                "firstname": "Paolo",
+                "lastname": "Tiralongo",
+                "country": "ITA"
+            },{
+                "firstname": "Ruslan",
+                "lastname": "Tleubayev",
+                "country": "KAZ"
+            },{
+                "firstname": "Alessandro",
+                "lastname": "Vanotti",
+                "country": "ITA"
+            },{
+                "firstname": "Liewe",
+                "lastname": "Westra",
+                "country": "NED"
+            },{
+                "firstname": "Andrey",
+                "lastname": "Zeits",
+                "country": "KAZ"
+            }
+        ]
+    },{
         "code": "",
         "name": "",
         "country": "",
