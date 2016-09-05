@@ -9,7 +9,7 @@ const TeamTransferDetails = React.createClass({
                 <img className="transfer-logo" src={img(`/icons/${this.props.type}.png`)} alt={this.props.type} />
                 <ul className="transfer-details-list">
                     {this.props.transfers.map((rider, index) => {
-                        return <li key={this.props.type + "-" + index}><img className="flag" src={img(`/flags/${rider.country}.svg`)} alt={rider.country} /> - {rider.firstname} {rider.lastname} {(this.props.type === "in") ? rider.from : (this.props.type === "out") ? rider.to : ""}</li>
+                        return <li key={this.props.type + "-" + index}><img className="flag" src={img(`/flags/${rider.country}.svg`)} alt={rider.country} /> - {rider.lastname.toUpperCase()} {rider.firstname} {(this.props.type === "in") ? rider.from : (this.props.type === "out") ? rider.to : ""}</li>
                     })}
                 </ul>
             </div>
