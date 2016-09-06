@@ -3,7 +3,7 @@
         "code": "ALM",
         "name": "AG2R La Mondiale",
         "country": "FRA",
-        "category": "World Tour",
+        "category": "WorldTour",
         "roster": [
             {
                 "firstname": "Gediminas",
@@ -131,7 +131,7 @@
         "code": "AST",
         "name": "Astana Pro Team",
         "country": "KAZ",
-        "category": "World Tour",
+        "category": "WorldTour",
         "roster": [
             {
                 "firstname": "Valerio",
