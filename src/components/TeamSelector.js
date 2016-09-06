@@ -4,7 +4,8 @@ import "./../styles/TeamSelector.css"
 
 const TeamSelector = React.createClass({
     handleChange(e) {
-        window.location = (e.target.value) ? "#" + e.target.value : ""
+        if (e.target.value)
+            window.location = "#" + e.target.value
     },
 
     render() {
