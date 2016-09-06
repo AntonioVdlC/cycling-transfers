@@ -2,6 +2,8 @@ import React from "react"
 
 import img from "./../utils/importImage"
 
+import "./../styles/TeamTransferDetails.css"
+
 const TeamTransferDetails = React.createClass({
     render() {
         return (
@@ -10,10 +12,10 @@ const TeamTransferDetails = React.createClass({
                 <ul className="transfer-details-list">
                     {this.props.transfers.map((rider, index) => {
                         return (
-                            <li key={this.props.type + "-" + index}>
-                                <img className="flag" src={img(`/flags/${rider.country}.svg`)} alt={rider.country} /> - 
-                                <span>{rider.lastname.toUpperCase()} {rider.firstname}</span> 
-                                <span>{(this.props.type === "in") ? rider.from : (this.props.type === "out") ? rider.to : ""}</span>
+                            <li className="transfer-details-list-element" key={this.props.type + "-" + index}>
+                                <img className="rider-flag" src={img(`/flags/${rider.country}.svg`)} alt={rider.country} />
+                                <span className="rider-name">{rider.lastname.toUpperCase()} {rider.firstname}</span> 
+                                <span className="rider-transfer-team">{(this.props.type === "in") ? ((rider.from.length === 3) ? <a href={`#${rider.from}`}>{rider.from}</a> : rider.from) : (this.props.type === "out") ? ((rider.to.length === 3) ? <a href={`#${rider.to}`}>{rider.to}</a> : rider.to) : ""}</span>
                             </li>
                         )
                     })}
