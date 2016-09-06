@@ -1212,6 +1212,350 @@
             }
         ]
     },{
+        "code": "OBE",
+        "name": "Orica-BikeExchange",
+        "country": "AUS",
+        "category": "WorldTour",
+        "roster": [
+            {
+                "firstname": "Michael",
+                "lastname": "Albasini",
+                "country": "SUI"
+            },{
+                "firstname": "Sam",
+                "lastname": "Bewley",
+                "country": "NZL"
+            },{
+                "firstname": "Johan Esteban",
+                "lastname": "Chaves Rubio",
+                "country": "COL"
+            },{
+                "firstname": "Mitchell",
+                "lastname": "Docker",
+                "country": "AUS"
+            },{
+                "firstname": "Luke",
+                "lastname": "Durbridge",
+                "country": "AUS"
+            },{
+                "firstname": "Alexander",
+                "lastname": "Edmondson",
+                "country": "AUS"
+            },{
+                "firstname": "Caleb",
+                "lastname": "Ewan",
+                "country": "AUS"
+            },{
+                "firstname": "Simon",
+                "lastname": "Gerrans",
+                "country": "AUS"
+            },{
+                "firstname": "Jack",
+                "lastname": "Haig",
+                "country": "AUS"
+            },{
+                "firstname": "Mathew",
+                "lastname": "Hayman",
+                "country": "AUS"
+            },{
+                "firstname": "Michael",
+                "lastname": "Hepburn",
+                "country": "AUS"
+            },{
+                "firstname": "Damien",
+                "lastname": "Howson",
+                "country": "AUS"
+            },{
+                "firstname": "Daryl",
+                "lastname": "Impey",
+                "country": "RSA"
+            },{
+                "firstname": "Christopher",
+                "lastname": "Juul Jensen",
+                "country": "DEN"
+            },{
+                "firstname": "Jens",
+                "lastname": "Keukeliere",
+                "country": "BEL"
+            },{
+                "firstname": "Michael",
+                "lastname": "Matthews",
+                "country": "AUS"
+            },{
+                "firstname": "Christian",
+                "lastname": "Meier",
+                "country": "CAN"
+            },{
+                "firstname": "Luka",
+                "lastname": "Mezgec",
+                "country": "SLO"
+            },{
+                "firstname": "Magnus Cort",
+                "lastname": "Nielsen",
+                "country": "DEN"
+            },{
+                "firstname": "Ruben",
+                "lastname": "Plaza Molina",
+                "country": "ESP"
+            },{
+                "firstname": "Robert",
+                "lastname": "Power",
+                "country": "AUS"
+            },{
+                "firstname": "Svein",
+                "lastname": "Tuft",
+                "country": "CAN"
+            },{
+                "firstname": "Amets",
+                "lastname": "Txurruka Ansola",
+                "country": "ESP"
+            },{
+                "firstname": "Adam",
+                "lastname": "Yates",
+                "country": "GBR"
+            },{
+                "firstname": "Simon",
+                "lastname": "Yates",
+                "country": "GBR"
+            }
+        ]
+    },{
+        "code": "DDD",
+        "name": "Team Dimension Data",
+        "country": "RSA",
+        "category": "WorldTour",
+        "roster": [
+            {
+                "firstname": "Igor",
+                "lastname": "Anton Hernandez",
+                "country": "ESP"
+            },{
+                "firstname": "Natnael",
+                "lastname": "Berhane",
+                "country": "ERI"
+            },{
+                "firstname": "Edvald",
+                "lastname": "Boasson Hagen",
+                "country": "NOR"
+            },{
+                "firstname": "Theo",
+                "lastname": "Bos",
+                "country": "NED"
+            },{
+                "firstname": "Matt",
+                "lastname": "Brammeier",
+                "country": "IRL"
+            },{
+                "firstname": "Mark",
+                "lastname": "Cavendish",
+                "country": "GBR"
+            },{
+                "firstname": "Stephen",
+                "lastname": "Cummings",
+                "country": "GBR"
+            },{
+                "firstname": "Mekseb",
+                "lastname": "Debesay",
+                "country": "ERI"
+            },{
+                "firstname": "Nick",
+                "lastname": "Dougall",
+                "country": "AUS"
+            },{
+                "firstname": "Bernhard",
+                "lastname": "Eisel",
+                "country": "AUT"
+            },{
+                "firstname": "Tyler",
+                "lastname": "Farrar",
+                "country": "USA"
+            },{
+                "firstname": "Omar",
+                "lastname": "Fraile Matarranz",
+                "country": "ESP"
+            },{
+                "firstname": "Nathan",
+                "lastname": "Haas",
+                "country": "AUS"
+            },{
+                "firstname": "Jacques",
+                "lastname": "Janse Van Rensburg",
+                "country": "RSA"
+            },{
+                "firstname": "Reinardt",
+                "lastname": "Janse Van Rensburg",
+                "country": "RSA"
+            },{
+                "firstname": "Songezo",
+                "lastname": "Jim",
+                "country": "RSA"
+            },{
+                "firstname": "Merhawi",
+                "lastname": "Kudus Ghebremedhin",
+                "country": "ERI"
+            },{
+                "firstname": "Cameron",
+                "lastname": "Meyer",
+                "country": "AUS"
+            },{
+                "firstname": "Adrien",
+                "lastname": "Niyonshuti",
+                "country": "RWA"
+            },{
+                "firstname": "Serge",
+                "lastname": "Pawels",
+                "country": "BEL"
+            },{
+                "firstname": "Youcef",
+                "lastname": "Reguigui",
+                "country": "ALG"
+            },{
+                "firstname": "Mark",
+                "lastname": "Renshaw",
+                "country": "AUS"
+            },{
+                "firstname": "Kristian",
+                "lastname": "Sbaragli",
+                "country": "ITA"
+            },{
+                "firstname": "Kanstantsin",
+                "lastname": "Siutsou",
+                "country": "BLR"
+            },{
+                "firstname": "Daniel",
+                "lastname": "Teklehaimanot",
+                "country": "ERI"
+            },{
+                "firstname": "Jay Robert",
+                "lastname": "Thomson",
+                "country": "RSA"
+            },{
+                "firstname": "Johann",
+                "lastname": "Van Zyl",
+                "country": "RSA"
+            },{
+                "firstname": "Jacobus",
+                "lastname": "Venter",
+                "country": "RSA"
+            }
+        ]
+    },{
+        "code": "TGA",
+        "name": "Team Giant - Alpecin",
+        "country": "GER",
+        "category": "WorldTour",
+        "roster": [
+            {
+                "firstname": "Søren Kragh",
+                "lastname": "Andersen",
+                "country": "DEN"
+            },{
+                "firstname": "Nikias",
+                "lastname": "Arndt",
+                "country": "GER"
+            },{
+                "firstname": "Warren",
+                "lastname": "Barguil",
+                "country": "FRA"
+            },{
+                "firstname": "Roy",
+                "lastname": "Curvers",
+                "country": "NED"
+            },{
+                "firstname": "Bert",
+                "lastname": "De Backer",
+                "country": "BEL"
+            },{
+                "firstname": "Koen",
+                "lastname": "De Kort",
+                "country": "NED"
+            },{
+                "firstname": "John",
+                "lastname": "Degenkolb",
+                "country": "GER"
+            },{
+                "firstname": "Tom",
+                "lastname": "Dumoulin",
+                "country": "NED"
+            },{
+                "firstname": "Caleb",
+                "lastname": "Fairly",
+                "country": "USA"
+            },{
+                "firstname": "Johannes",
+                "lastname": "Fröhlinger",
+                "country": "GER"
+            },{
+                "firstname": "Simon",
+                "lastname": "Geschke",
+                "country": "GER"
+            },{
+                "firstname": "Chad",
+                "lastname": "Haga",
+                "country": "USA"
+            },{
+                "firstname": "Cheng",
+                "lastname": "Ji",
+                "country": "CHN"
+            },{
+                "firstname": "Carter",
+                "lastname": "Jones",
+                "country": "USA"
+            },{
+                "firstname": "Fredrik",
+                "lastname": "Ludvigsson",
+                "country": "SWE"
+            },{
+                "firstname": "Tobias",
+                "lastname": "Ludvigsson",
+                "country": "SWE"
+            },{
+                "firstname": "Sindre Skjostad",
+                "lastname": "Lunke",
+                "country": "NOR"
+            },{
+                "firstname": "Sam",
+                "lastname": "Oomen",
+                "country": "NED"
+            },{
+                "firstname": "Gerog",
+                "lastname": "Preidler",
+                "country": "AUT"
+            },{
+                "firstname": "Ramon",
+                "lastname": "Sinkeldam",
+                "country": "NED"
+            },{
+                "firstname": "Tom",
+                "lastname": "Stamsnijder",
+                "country": "NED"
+            },{
+                "firstname": "Laurens",
+                "lastname": "Ten Dam",
+                "country": "NED"
+            },{
+                "firstname": "Albert",
+                "lastname": "Timmer",
+                "country": "NED"
+            },{
+                "firstname": "Lars",
+                "lastname": "Van Der Haar",
+                "country": "NED"
+            },{
+                "firstname": "Tom",
+                "lastname": "Veelers",
+                "country": "NED"
+            },{
+                "firstname": "Zico",
+                "lastname": "Waeytens",
+                "country": "BEL"
+            },{
+                "firstname": "Max",
+                "lastname": "Walscheid",
+                "country": "GER"
+            }
+        ]
+    },{
         "code": "",
         "name": "",
         "country": "",
