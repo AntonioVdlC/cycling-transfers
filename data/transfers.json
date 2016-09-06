@@ -121,7 +121,7 @@
         "to": "ALM"
     },{
         "firstname": "Stijn",
-        "lastname": "Vandernbergh",
+        "lastname": "Vandenbergh",
         "country": "BEL",
         "from": "EQS",
         "to": "ALM"
@@ -1089,7 +1089,7 @@
         "firstname": "Lennard",
         "lastname": "Kämma",
         "country": "GER",
-        "from": "-",
+        "from": "SSG",
         "to": "TGA"
     },{
         "firstname": "Mike",
