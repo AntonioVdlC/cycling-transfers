@@ -1,12 +1,12 @@
-body {
+body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
 }
 
-.logo {
-    height: 1.75em;
-    float: left;
+.header,
+.main {
+    padding: 1em 1.618em;
 }
 
 .flag {

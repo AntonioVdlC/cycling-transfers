@@ -1,5 +1,7 @@
 import React from "react"
 
+import "./../styles/TeamSelector.css"
+
 const TeamSelector = React.createClass({
     handleChange(e) {
         window.location = (e.target.value) ? "#" + e.target.value : ""

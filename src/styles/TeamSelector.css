@@ -1,0 +1,13 @@
+.team-selector {
+    margin-top: 2vh;
+}
+
+.team-selector label {
+    font-size: 14px;
+}
+
+.team-selector select {
+    font-size: 2em;
+    width: calc(100% - 44px);
+}
+

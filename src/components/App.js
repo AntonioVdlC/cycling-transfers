@@ -4,13 +4,13 @@ import Header from "./Header"
 import TeamSelector from "./TeamSelector"
 import TeamList from "./TeamList"
 
-import logo from "./../images/logo.svg"
+import "./../styles/App.css"
 
 const App = React.createClass({
     getInitialState() {
         return {
             teams: [],
-            rosters: {}
+            transfers: {}
         }
     },
 
@@ -33,12 +33,16 @@ const App = React.createClass({
     render() {
         return (
             <div className="App">
-                <Header logo={logo} title="Cycling Transfers" />
-                <TeamSelector teams={this.state.teams} />
-                <TeamList 
-                    teams={this.state.teams} 
-                    transfers={this.state.transfers}
-                />
+                <header className="header">
+                    <Header title="Cycling Transfers" />
+                </header>
+                <main className="main">
+                    <TeamSelector teams={this.state.teams} />
+                    <TeamList 
+                        teams={this.state.teams} 
+                        transfers={this.state.transfers}
+                    />
+                </main>
             </div>
         )
     }
