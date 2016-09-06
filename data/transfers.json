@@ -92,7 +92,7 @@
     },{
         "firstname": "Mathias",
         "lastname": "Frank",
-        "country": "SWI",
+        "country": "SUI",
         "from": "IAM",
         "to": "ALM"
     },{
@@ -239,6 +239,114 @@
         "country": "KAZ",
         "from": "-",
         "to": "AST"
+    },{
+        "firstname": "Jhon Darwin",
+        "lastname": "Atapuma Hurtado",
+        "country": "COL",
+        "from": "BMC",
+        "to": "?"
+    },{
+        "firstname": "Brent",
+        "lastname": "Bookwalter",
+        "country": "USA",
+        "from": "BMC",
+        "to": "BMC"
+    },{
+        "firstname": "Marcus",
+        "lastname": "Burghardt",
+        "country": "GER",
+        "from": "BMC",
+        "to": "BOA"
+    },{
+        "firstname": "Damiano",
+        "lastname": "Caruso",
+        "country": "ITA",
+        "from": "BMC",
+        "to": "BMC"
+    },{
+        "firstname": "Rohan",
+        "lastname": "Dennis",
+        "country": "AUS",
+        "from": "BMC",
+        "to": "BMC"
+    },{
+        "firstname": "Philippe",
+        "lastname": "Gilbert",
+        "country": "BEL",
+        "from": "BMC",
+        "to": "EQS"
+    },{
+        "firstname": "Amaël",
+        "lastname": "Moinard",
+        "country": "FRA",
+        "from": "BMC",
+        "to": "BMC"
+    },{
+        "firstname": "Daniel",
+        "lastname": "Oss",
+        "country": "ITA",
+        "from": "BMC",
+        "to": "BMC"
+    },{
+        "firstname": "Taylor",
+        "lastname": "Phinney",
+        "country": "USA",
+        "from": "BMC",
+        "to": "?"
+    },{
+        "firstname": "Richie",
+        "lastname": "Porte",
+        "country": "AUS",
+        "from": "BMC",
+        "to": "BMC"
+    },{
+        "firstname": "Manuel",
+        "lastname": "Quinziato",
+        "country": "ITA",
+        "from": "BMC",
+        "to": "BMC"
+    },{
+        "firstname": "Samuel",
+        "lastname": "Sanchez Gonzalez",
+        "country": "ESP",
+        "from": "BMC",
+        "to": "BMC"
+    },{
+        "firstname": "Michael",
+        "lastname": "Schär",
+        "country": "SUI",
+        "from": "BMC",
+        "to": "BMC"
+    },{
+        "firstname": "Dylan",
+        "lastname": "Teuns",
+        "country": "BEL",
+        "from": "BMC",
+        "to": "BMC"
+    },{
+        "firstname": "Greg",
+        "lastname": "Van Avermaet",
+        "country": "BEL",
+        "from": "BMC",
+        "to": "BMC"
+    },{
+        "firstname": "Danilo",
+        "lastname": "Wyss",
+        "country": "SUI",
+        "from": "BMC",
+        "to": "BMC"
+    },{
+        "firstname": "Rick",
+        "lastname": "Zabel",
+        "country": "GER",
+        "from": "BMC",
+        "to": "KAT"
+    },{
+        "firstname": "Nicholas",
+        "lastname": "Roche",
+        "country": "IRL",
+        "from": "SKY",
+        "to": "BMC"
     },{
         "firstname": "",
         "lastname": "",

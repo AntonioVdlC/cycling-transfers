@@ -248,6 +248,130 @@
             }
         ]
     },{
+        "code": "BMC",
+        "name": "BMC Racing Team",
+        "country": "USA",
+        "category": "WorldTour",
+        "roster": [
+            {
+                "firstname": "Jhon Darwin",
+                "lastname": "Atapuma Hurtado",
+                "country": "COL"
+            },{
+                "firstname": "Tom",
+                "lastname": "Bohli",
+                "country": "SUI"
+            },{
+                "firstname": "Brent",
+                "lastname": "Bookwalter",
+                "country": "USA"
+            },{
+                "firstname": "Marcus",
+                "lastname": "Burghardt",
+                "country": "GER"
+            },{
+                "firstname": "Damiano",
+                "lastname": "Caruso",
+                "country": "ITA"
+            },{
+                "firstname": "Alessandro",
+                "lastname": "De Marchi",
+                "country": "ITA"
+            },{
+                "firstname": "Rohan",
+                "lastname": "Dennis",
+                "country": "AUS"
+            },{
+                "firstname": "Silvan",
+                "lastname": "Dillier",
+                "country": "SUI"
+            },{
+                "firstname": "Jean-Pierre",
+                "lastname": "Drucker",
+                "country": "LUX"
+            },{
+                "firstname": "Floris",
+                "lastname": "Gerfs",
+                "country": "NED"
+            },{
+                "firstname": "Philippe",
+                "lastname": "Gilbert",
+                "country": "BEL"
+            },{
+                "firstname": "Ben",
+                "lastname": "Hermans",
+                "country": "BEL"
+            },{
+                "firstname": "Stefan",
+                "lastname": "Küng",
+                "country": "SUI"
+            },{
+                "firstname": "Amaël",
+                "lastname": "Moinard",
+                "country": "FRA"
+            },{
+                "firstname": "Daniel",
+                "lastname": "Oss",
+                "country": "ITA"
+            },{
+                "firstname": "Taylor",
+                "lastname": "Phinney",
+                "country": "USA"
+            },{
+                "firstname": "Richie",
+                "lastname": "Porte",
+                "country": "AUS"
+            },{
+                "firstname": "Manuel",
+                "lastname": "Quinziato",
+                "country": "ITA"
+            },{
+                "firstname": "Joey",
+                "lastname": "Rosskopf",
+                "country": "USA"
+            },{
+                "firstname": "Samuel",
+                "lastname": "Sanchez Gonzalez",
+                "country": "ESP"
+            },{
+                "firstname": "Michael",
+                "lastname": "Schär",
+                "country": "SUI"
+            },{
+                "firstname": "Manuel",
+                "lastname": "Senni",
+                "country": "ITA"
+            },{
+                "firstname": "Dylan",
+                "lastname": "Teuns",
+                "country": "BEL"
+            },{
+                "firstname": "Greg",
+                "lastname": "Van Avermaet",
+                "country": "BEL"
+            },{
+                "firstname": "Tejay",
+                "lastname": "Van Garderen",
+                "country": "USA"
+            },{
+                "firstname": "Peter",
+                "lastname": "Velits",
+                "country": "SVK"
+            },{
+                "firstname": "Loïc",
+                "lastname": "Vliegen",
+                "country": "BEL"
+            },{
+                "firstname": "Danilo",
+                "lastname": "Wyss",
+                "country": "SUI"
+            },{
+                "firstname": "Rick",
+                "lastname": "Zabel",
+                "country": "GER"
+            }
+        ]
+    },{
         "code": "",
         "name": "",
         "country": "",
