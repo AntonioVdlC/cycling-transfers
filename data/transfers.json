@@ -732,6 +732,192 @@
         "from": "IAM",
         "to": "?"
     },{
+        "firstname": "Matteo",
+        "lastname": "Bono",
+        "country": "ITA",
+        "from": "LAM",
+        "to": "LAM"
+    },{
+        "firstname": "Valerio",
+        "lastname": "Conti",
+        "country": "ITA",
+        "from": "LAM",
+        "to": "LAM"
+    },{
+        "firstname": "Kristjan",
+        "lastname": "Durasek",
+        "country": "CRO",
+        "from": "LAM",
+        "to": "LAM"
+    },{
+        "firstname": "Rui Alberto",
+        "lastname": "Faria Da Costa",
+        "country": "POR",
+        "from": "LAM",
+        "to": "LAM"
+    },{
+        "firstname": "Roberto",
+        "lastname": "Ferrari",
+        "country": "ITA",
+        "from": "LAM",
+        "to": "LAM"
+    },{
+        "firstname": "Tsgabu Gebremaryam",
+        "lastname": "Grmay",
+        "country": "ETH",
+        "from": "LAM",
+        "to": "?"
+    },{
+        "firstname": "Marko",
+        "lastname": "Kump",
+        "country": "SLO",
+        "from": "LAM",
+        "to": "LAM"
+    },{
+        "firstname": "Louis",
+        "lastname": "Meintjes",
+        "country": "RSA",
+        "from": "LAM",
+        "to": "LAM"
+    },{
+        "firstname": "Sacha",
+        "lastname": "Modolo",
+        "country": "ITA",
+        "from": "LAM",
+        "to": "LAM"
+    },{
+        "firstname": "Matej",
+        "lastname": "Mohoric",
+        "country": "SLO",
+        "from": "LAM",
+        "to": "LAM"
+    },{
+        "firstname": "Manuele",
+        "lastname": "Mori",
+        "country": "ITA",
+        "from": "LAM",
+        "to": "LAM"
+    },{
+        "firstname": "Przemyslaw",
+        "lastname": "Niemiec",
+        "country": "POL",
+        "from": "LAM",
+        "to": "LAM"
+    },{
+        "firstname": "Simone",
+        "lastname": "Petilli",
+        "country": "ITA",
+        "from": "LAM",
+        "to": "LAM"
+    },{
+        "firstname": "Luka",
+        "lastname": "Pibernik",
+        "country": "SLO",
+        "from": "LAM",
+        "to": "BAH"
+    },{
+        "firstname": "Jan",
+        "lastname": "Polanc",
+        "country": "SLO",
+        "from": "LAM",
+        "to": "LAM"
+    },{
+        "firstname": "Diego",
+        "lastname": "Ulissi",
+        "country": "ITA",
+        "from": "LAM",
+        "to": "LAM"
+    },{
+        "firstname": "Federico",
+        "lastname": "Zurlo",
+        "country": "ITA",
+        "from": "LAM",
+        "to": "LAM"
+    },{
+        "firstname": "Simone",
+        "lastname": "Consonni",
+        "country": "ITA",
+        "from": "-",
+        "to": "LAM"
+    },{
+        "firstname": "Filippo",
+        "lastname": "Ganna",
+        "country": "ITA",
+        "from": "-",
+        "to": "LAM"
+    },{
+        "firstname": "Edward",
+        "lastname": "Ravasi",
+        "country": "ITA",
+        "from": "-",
+        "to": "LAM"
+    },{
+        "firstname": "Lars Ytting",
+        "lastname": "Bak",
+        "country": "DEN",
+        "from": "LTS",
+        "to": "LTS"
+    },{
+        "firstname": "Jasper",
+        "lastname": "De Buyst",
+        "country": "BEL",
+        "from": "LTS",
+        "to": "LTS"
+    },{
+        "firstname": "Thomas",
+        "lastname": "De Gendt",
+        "country": "BEL",
+        "from": "LTS",
+        "to": "LTS"
+    },{
+        "firstname": "Gregory",
+        "lastname": "Henderson",
+        "country": "NZL",
+        "from": "LTS",
+        "to": "?"
+    },{
+        "firstname": "Pim",
+        "lastname": "Ligthart",
+        "country": "NED",
+        "from": "LTS",
+        "to": "ROP"
+    },{
+        "firstname": "Tosh",
+        "lastname": "Van Der Sande",
+        "country": "BEL",
+        "from": "LTS",
+        "to": "?"
+    },{
+        "firstname": "Jelle",
+        "lastname": "Vanendert",
+        "country": "BEL",
+        "from": "LTS",
+        "to": "?"
+    },{
+        "firstname": "Tim",
+        "lastname": "Wellens",
+        "country": "BEL",
+        "from": "LTS",
+        "to": "LTS"
+    },{
+        "firstname": "Juan José",
+        "lastname": "Lobato Del Valle",
+        "country": "ESP",
+        "from": "MOV",
+        "to": "TLJ"
+    },{
+        "firstname": "Giovanni",
+        "lastname": "Visconti",
+        "country": "ITA",
+        "from": "MOV",
+        "to": "BAH"
+    },{
+        "firstname": "Daniele",
+        "lastname": "Bennati",
+        "country": "ITA",
+        "from": "TNK",
+        "to": "MOV"
+    },{
         "firstname": "",
         "lastname": "",
         "country": "",

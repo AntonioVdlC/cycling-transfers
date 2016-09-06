@@ -876,6 +876,342 @@
             }
         ]
     },{
+        "code": "LAM",
+        "name": "Lampre - Merida",
+        "country": "ITA",
+        "category": "WorldTour",
+        "roster": [
+            {
+                "firstname": "Yukiya",
+                "lastname": "Arashiro",
+                "country": "JPN"
+            },{
+                "firstname": "Matteo",
+                "lastname": "Bono",
+                "country": "ITA"
+            },{
+                "firstname": "Mattia",
+                "lastname": "Cattaneo",
+                "country": "ITA"
+            },{
+                "firstname": "Davide",
+                "lastname": "Cimolai",
+                "country": "ITA"
+            },{
+                "firstname": "Valerio",
+                "lastname": "Conti",
+                "country": "ITA"
+            },{
+                "firstname": "Kristjan",
+                "lastname": "Durasek",
+                "country": "CRO"
+            },{
+                "firstname": "Mario Jorge",
+                "lastname": "Faria Da Costa",
+                "country": "POR"
+            },{
+                "firstname": "Rui Alberto",
+                "lastname": "Faria Da Costa",
+                "country": "POR"
+            },{
+                "firstname": "Chun Kai",
+                "lastname": "Feng",
+                "country": "TPE"
+            },{
+                "firstname": "Roberto",
+                "lastname": "Ferrari",
+                "country": "ITA"
+            },{
+                "firstname": "Tsgabu Gebremaryam",
+                "lastname": "Grmay",
+                "country": "ETH"
+            },{
+                "firstname": "Ilia",
+                "lastname": "Koshevoy",
+                "country": "BLR"
+            },{
+                "firstname": "Marko",
+                "lastname": "Kump",
+                "country": "SLO"
+            },{
+                "firstname": "Louis",
+                "lastname": "Meintjes",
+                "country": "RSA"
+            },{
+                "firstname": "Sacha",
+                "lastname": "Modolo",
+                "country": "ITA"
+            },{
+                "firstname": "Matej",
+                "lastname": "Mohoric",
+                "country": "SLO"
+            },{
+                "firstname": "Manuele",
+                "lastname": "Mori",
+                "country": "ITA"
+            },{
+                "firstname": "Przemyslaw",
+                "lastname": "Niemiec",
+                "country": "POL"
+            },{
+                "firstname": "Simone",
+                "lastname": "Petilli",
+                "country": "ITA"
+            },{
+                "firstname": "Luka",
+                "lastname": "Pibernik",
+                "country": "SLO"
+            },{
+                "firstname": "Jan",
+                "lastname": "Polanc",
+                "country": "SLO"
+            },{
+                "firstname": "Diego",
+                "lastname": "Ulissi",
+                "country": "ITA"
+            },{
+                "firstname": "Gang",
+                "lastname": "Xu",
+                "country": "CHN"
+            },{
+                "firstname": "Federico",
+                "lastname": "Zurlo",
+                "country": "ITA"
+            }
+        ]
+    },{
+        "code": "LTS",
+        "name": "Lotto Soudal",
+        "country": "BEL",
+        "category": "WorldTour",
+        "roster": [
+            {
+                "firstname": "Sander",
+                "lastname": "Armee",
+                "country": "BEL"
+            },{
+                "firstname": "Lars Ytting",
+                "lastname": "Bak",
+                "country": "DEN"
+            },{
+                "firstname": "Tiesj",
+                "lastname": "Benoot",
+                "country": "BEL"
+            },{
+                "firstname": "Kris",
+                "lastname": "Boeckmans",
+                "country": "BEL"
+            },{
+                "firstname": "Stig",
+                "lastname": "Broeckx",
+                "country": "BEL"
+            },{
+                "firstname": "Sean",
+                "lastname": "De Bie",
+                "country": "BEL"
+            },{
+                "firstname": "Jasper",
+                "lastname": "De Buyst",
+                "country": "BEL"
+            },{
+                "firstname": "Bart",
+                "lastname": "De Clerq",
+                "country": "BEL"
+            },{
+                "firstname": "Thomas",
+                "lastname": "De Gendt",
+                "country": "BEL"
+            },{
+                "firstname": "Jens",
+                "lastname": "Debusschere",
+                "country": "BEL"
+            },{
+                "firstname": "Gert",
+                "lastname": "Dockx",
+                "country": "BEL"
+            },{
+                "firstname": "Frederik",
+                "lastname": "Frison",
+                "country": "BEL"
+            },{
+                "firstname": "Tony",
+                "lastname": "Gallopin",
+                "country": "FRA"
+            },{
+                "firstname": "André",
+                "lastname": "Greipel",
+                "country": "GER"
+            },{
+                "firstname": "Adam",
+                "lastname": "Hansen",
+                "country": "AUS"
+            },{
+                "firstname": "Gregory",
+                "lastname": "Henderson",
+                "country": "NZL"
+            },{
+                "firstname": "Pim",
+                "lastname": "Ligthart",
+                "country": "NED"
+            },{
+                "firstname": "Tomasz",
+                "lastname": "Marczynski",
+                "country": "POL"
+            },{
+                "firstname": "Maxime",
+                "lastname": "Monfort",
+                "country": "BEL"
+            },{
+                "firstname": "Jurgen",
+                "lastname": "Roelandts",
+                "country": "BEL"
+            },{
+                "firstname": "Marcel",
+                "lastname": "Sieberg",
+                "country": "GER"
+            },{
+                "firstname": "Rafael",
+                "lastname": "Valls Ferri",
+                "country": "ESP"
+            },{
+                "firstname": "Tosh",
+                "lastname": "Van Der Sande",
+                "country": "BEL"
+            },{
+                "firstname": "Jelle",
+                "lastname": "Vanendert",
+                "country": "BEL"
+            },{
+                "firstname": "Louis",
+                "lastname": "Vervaeke",
+                "country": "BEL"
+            },{
+                "firstname": "Jelle",
+                "lastname": "Wallays",
+                "country": "BEL"
+            },{
+                "firstname": "Tim",
+                "lastname": "Wellens",
+                "country": "BEL"
+            }
+        ]
+    },{
+        "code": "MOV",
+        "name": "Movistar Team",
+        "country": "ESP",
+        "category": "WorldTour",
+        "roster": [
+            {
+                "firstname": "Andrey",
+                "lastname": "Amador Bikkazakova",
+                "country": "CRC"
+            },{
+                "firstname": "Winner Andrew",
+                "lastname": "Anacona Gómez",
+                "country": "COL"
+            },{
+                "firstname": "Jorge",
+                "lastname": "Arcas Peña",
+                "country": "ESP"
+            },{
+                "firstname": "Carlos Alberto",
+                "lastname": "Betancur Gómez",
+                "country": "COL"
+            },{
+                "firstname": "Jonathan",
+                "lastname": "Castroviejo Nicolas",
+                "country": "ESP"
+            },{
+                "firstname": "Alex",
+                "lastname": "Dowsett",
+                "country": "GBR"
+            },{
+                "firstname": "Imanol",
+                "lastname": "Erviti Ollo",
+                "country": "ESP"
+            },{
+                "firstname": "Ruben",
+                "lastname": "Fernandez Andujar",
+                "country": "ESP"
+            },{
+                "firstname": "Jesus",
+                "lastname": "Herrada Lopez",
+                "country": "ESP"
+            },{
+                "firstname": "José",
+                "lastname": "Herrada Lopez",
+                "country": "ESP"
+            },{
+                "firstname": "Gorka",
+                "lastname": "Izagirre Insausti",
+                "country": "ESP"
+            },{
+                "firstname": "Ion",
+                "lastname": "Izagirre Insausti",
+                "country": "ESP"
+            },{
+                "firstname": "Juan Jose",
+                "lastname": "Lobato Del Valle",
+                "country": "ESP"
+            },{
+                "firstname": "Adriano",
+                "lastname": "Malori",
+                "country": "ITA"
+            },{
+                "firstname": "Javier",
+                "lastname": "Moreno Bazan",
+                "country": "ESP"
+            },{
+                "firstname": "Daniel",
+                "lastname": "Moreno Fernandez",
+                "country": "ESP"
+            },{
+                "firstname": "Nelson Filipe",
+                "lastname": "Oliveira",
+                "country": "POR"
+            },{
+                "firstname": "Antonio",
+                "lastname": "Pedrero Lopez",
+                "country": "ESP"
+            },{
+                "firstname": "Dayer Uberney",
+                "lastname": "Quintana Rojas",
+                "country": "COL"
+            },{
+                "firstname": "Nairo Alexander",
+                "lastname": "Quintana Rojas",
+                "country": "COL"
+            },{
+                "firstname": "Jose Joaquin",
+                "lastname": "Rojas Gil",
+                "country": "ESP"
+            },{
+                "firstname": "Marc",
+                "lastname": "Soler",
+                "country": "ESP"
+            },{
+                "firstname": "Rory",
+                "lastname": "Sutherland",
+                "country": "AUS"
+            },{
+                "firstname": "Jasha",
+                "lastname": "Sütterlin",
+                "country": "GER"
+            },{
+                "firstname": "Alejandro",
+                "lastname": "Valverde Belmonte",
+                "country": "ESP"
+            },{
+                "firstname": "Francisco José",
+                "lastname": "Ventoso Alberti",
+                "country": "ESP"
+            },{
+                "firstname": "Giovanni",
+                "lastname": "Visconti",
+                "country": "ITA"
+            }
+        ]
+    },{
         "code": "",
         "name": "",
         "country": "",
