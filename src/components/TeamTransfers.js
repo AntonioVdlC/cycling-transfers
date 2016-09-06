@@ -10,11 +10,12 @@ const TeamTransfers = React.createClass({
         return (
             <div className="team-transfers">
                 {types.map((type) =>
+                    (this.props.transfers[type].length) ?
                     <TeamTransferDetails 
                         key={type + "-details"}
                         type={`${type}`} 
                         transfers={this.props.transfers[type]} 
-                    />
+                    /> : ""
                 )}
             </div>
         )
