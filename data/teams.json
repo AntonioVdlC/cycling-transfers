@@ -628,6 +628,254 @@
             }
         ]
     },{
+        "code": "FDJ",
+        "name": "FDJ",
+        "country": "FRA",
+        "category": "WorldTour",
+        "roster": [
+            {
+                "firstname": "William",
+                "lastname": "Bonnet",
+                "country": "FRA"
+            },{
+                "firstname": "Sébastien",
+                "lastname": "Chavanel",
+                "country": "FRA"
+            },{
+                "firstname": "Arnaud",
+                "lastname": "Courteille",
+                "country": "FRA"
+            },{
+                "firstname": "Mickael",
+                "lastname": "Delage",
+                "country": "FRA"
+            },{
+                "firstname": "Arnaud",
+                "lastname": "Démarre",
+                "country": "FRA"
+            },{
+                "firstname": "Odd Christian",
+                "lastname": "Eiking",
+                "country": "NOR"
+            },{
+                "firstname": "Kenny",
+                "lastname": "Elissonde",
+                "country": "FRA"
+            },{
+                "firstname": "Murillo Antonio",
+                "lastname": "Fischer",
+                "country": "BRA"
+            },{
+                "firstname": "Marc",
+                "lastname": "Fournier",
+                "country": "FRA"
+            },{
+                "firstname": "Alexandre",
+                "lastname": "Geniez",
+                "country": "FRA"
+            },{
+                "firstname": "Daniel",
+                "lastname": "Hoelgaard",
+                "country": "NOR"
+            },{
+                "firstname": "Ignatas",
+                "lastname": "Konovalovas",
+                "country": "LTU"
+            },{
+                "firstname": "Matthieu",
+                "lastname": "Ladagnous",
+                "country": "FRA"
+            },{
+                "firstname": "Johan",
+                "lastname": "Le Bon",
+                "country": "FRA"
+            },{
+                "firstname": "Olivier",
+                "lastname": "Le Gac",
+                "country": "FRA"
+            },{
+                "firstname": "Pierre-Henri",
+                "lastname": "Lecuisinier",
+                "country": "FRA"
+            },{
+                "firstname": "Jérémy",
+                "lastname": "Maison",
+                "country": "FRA"
+            },{
+                "firstname": "Lorenzo",
+                "lastname": "Manzin",
+                "country": "FRA"
+            },{
+                "firstname": "Steve",
+                "lastname": "Morabito",
+                "country": "SUI"
+            },{
+                "firstname": "Yoann",
+                "lastname": "Offredo",
+                "country": "FRA"
+            },{
+                "firstname": "Laurent",
+                "lastname": "Pichon",
+                "country": "FRA"
+            },{
+                "firstname": "Cédric",
+                "lastname": "Pineau",
+                "country": "FRA"
+            },{
+                "firstname": "Thibault",
+                "lastname": "Pinot",
+                "country": "FRA"
+            },{
+                "firstname": "Sébastien",
+                "lastname": "Reichenbach",
+                "country": "SUI"
+            },{
+                "firstname": "Kévin",
+                "lastname": "Reza",
+                "country": "FRA"
+            },{
+                "firstname": "Anthony",
+                "lastname": "Roux",
+                "country": "FRA"
+            },{
+                "firstname": "Jérémy",
+                "lastname": "Roy",
+                "country": "FRA"
+            },{
+                "firstname": "Marc",
+                "lastname": "Sarreau",
+                "country": "FRA"
+            },{
+                "firstname": "Benoît",
+                "lastname": "Vaugrenard",
+                "country": "FRA"
+            },{
+                "firstname": "Arthur",
+                "lastname": "Vichot",
+                "country": "FRA"
+            }
+        ]
+    },{
+        "code": "IAM",
+        "name": "IAM Cycling",
+        "country": "SUI",
+        "category": "WorldTour",
+        "roster": [
+            {
+                "firstname": "Marcel",
+                "lastname": "Aregger",
+                "country": "SUI"
+            },{
+                "firstname": "Matthias",
+                "lastname": "Brandle",
+                "country": "AUT"
+            },{
+                "firstname": "Clément",
+                "lastname": "Chevrier",
+                "country": "FRA"
+            },{
+                "firstname": "Stef",
+                "lastname": "Clement",
+                "country": "NED"
+            },{
+                "firstname": "Jérôme",
+                "lastname": "Coppel",
+                "country": "FRA"
+            },{
+                "firstname": "Stefan",
+                "lastname": "Denifl",
+                "country": "AUT"
+            },{
+                "firstname": "Dries",
+                "lastname": "Devenyns",
+                "country": "BEL"
+            },{
+                "firstname": "Martin",
+                "lastname": "Elmiger",
+                "country": "SUI"
+            },{
+                "firstname": "Mathias",
+                "lastname": "Frank",
+                "country": "SUI"
+            },{
+                "firstname": "Jonathan",
+                "lastname": "Fumeaux",
+                "country": "SUI"
+            },{
+                "firstname": "Heinrich",
+                "lastname": "Haussler",
+                "country": "AUS"
+            },{
+                "firstname": "Reto",
+                "lastname": "Hollenstein",
+                "country": "SUI"
+            },{
+                "firstname": "Sondre",
+                "lastname": "Holst Enger",
+                "country": "NOR"
+            },{
+                "firstname": "Leigh",
+                "lastname": "Howard",
+                "country": "AUS"
+            },{
+                "firstname": "Roger",
+                "lastname": "Kluge",
+                "country": "GER"
+            },{
+                "firstname": "Vegard Stake",
+                "lastname": "Laengen",
+                "country": "NOR"
+            },{
+                "firstname": "Pirmin",
+                "lastname": "Lang",
+                "country": "SUI"
+            },{
+                "firstname": "Oliver",
+                "lastname": "Naesen",
+                "country": "BEL"
+            },{
+                "firstname": "Jarlinson",
+                "lastname": "Pantano Gómez",
+                "country": "COL"
+            },{
+                "firstname": "Simon",
+                "lastname": "Pellaud",
+                "country": "SUI"
+            },{
+                "firstname": "Matteo",
+                "lastname": "Pelucchi",
+                "country": "ITA"
+            },{
+                "firstname": "Vicente",
+                "lastname": "Reynes Mimo",
+                "country": "ESP"
+            },{
+                "firstname": "Aleksejs",
+                "lastname": "Saramotins",
+                "country": "LAT"
+            },{
+                "firstname": "David",
+                "lastname": "Tanner",
+                "country": "AUS"
+            },{
+                "firstname": "Jonas",
+                "lastname": "Van Genechten",
+                "country": "BEL"
+            },{
+                "firstname": "Lawrence",
+                "lastname": "Warbasse",
+                "country": "USA"
+            },{
+                "firstname": "Marcel",
+                "lastname": "Wyss",
+                "country": "SUI"
+            },{
+                "firstname": "Oliver",
+                "lastname": "Zaugg",
+                "country": "SUI"
+            }
+        ]
+    },{
         "code": "",
         "name": "",
         "country": "",
