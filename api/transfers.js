@@ -10,17 +10,17 @@ module.exports = (req, res) => {
             join = transfers.filter((transfer) => {
                 return transfer.from !== team.code 
                     && transfer.to === team.code
-            })
+            }).sort(byName)
 
             out = transfers.filter((transfer) => {
                 return transfer.from === team.code 
                     && transfer.to !== team.code
-            })
+            }).sort(byName)
             
             renew = transfers.filter((transfer) => {
                 return transfer.from === team.code 
                     && transfer.to === team.code
-            })
+            }).sort(byName)
             
             contract = team.roster.filter((rider) => {
                 return !(
@@ -33,7 +33,7 @@ module.exports = (req, res) => {
                             && r.lastname === rider.lastname
                     })
                 )
-            })
+            }).sort(byName)
 
             teamTransfers[team.code] = {
                 in: join,
@@ -45,4 +45,8 @@ module.exports = (req, res) => {
             return teamTransfers
         }, {})
     )
+}
+
+function byName (a, b) {
+    return (a.lastname + a.firstname > b.lastname + b.firstname) ? 1 : (a.lastname + a.firstname < b.lastname + b.firstname) ? -1 : 0
 }
