@@ -500,6 +500,134 @@
             }
         ]
     },{
+        "code": "EQS",
+        "name": "Etixx - Quick Step",
+        "country": "BEL",
+        "category": "WorldTour",
+        "roster": [
+            {
+                "firstname": "Julian",
+                "lastname": "Alaphilippe",
+                "country": "FRA"
+            },{
+                "firstname": "Tom",
+                "lastname": "Boonen",
+                "country": "BEL"
+            },{
+                "firstname": "Maxime",
+                "lastname": "Bouet",
+                "country": "FRA"
+            },{
+                "firstname": "Gianluca",
+                "lastname": "Brambilla",
+                "country": "ITA"
+            },{
+                "firstname": "Rodrigo",
+                "lastname": "Contreras",
+                "country": "COL"
+            },{
+                "firstname": "David",
+                "lastname": "De La Cruz Melgarejo",
+                "country": "ESP"
+            },{
+                "firstname": "Laurens",
+                "lastname": "De Plus",
+                "country": "BEL"
+            },{
+                "firstname": "Fernando",
+                "lastname": "Gaviria Rendon",
+                "country": "COL"
+            },{
+                "firstname": "Bob",
+                "lastname": "Jungels",
+                "country": "LUX"
+            },{
+                "firstname": "Iljo",
+                "lastname": "Keisse",
+                "country": "BEL"
+            },{
+                "firstname": "Marcel",
+                "lastname": "Kittel",
+                "country": "GER"
+            },{
+                "firstname": "Yves",
+                "lastname": "Lampaert",
+                "country": "BEL"
+            },{
+                "firstname": "Nikolas",
+                "lastname": "Maes",
+                "country": "BEL"
+            },{
+                "firstname": "Daniel",
+                "lastname": "Martin",
+                "country": "IRL"
+            },{
+                "firstname": "Tony",
+                "lastname": "Martin",
+                "country": "GER"
+            },{
+                "firstname": "Davide",
+                "lastname": "Martinelli",
+                "country": "ITA"
+            },{
+                "firstname": "Gianni",
+                "lastname": "Meersman",
+                "country": "BEL"
+            },{
+                "firstname": "Maximiliano",
+                "lastname": "Richeze Ariel",
+                "country": "ARG"
+            },{
+                "firstname": "Fabio",
+                "lastname": "Sabatini",
+                "country": "ITA"
+            },{
+                "firstname": "Pieter",
+                "lastname": "Serry",
+                "country": "BEL"
+            },{
+                "firstname": "Zdenek",
+                "lastname": "Stybar",
+                "country": "CZE"
+            },{
+                "firstname": "Niki",
+                "lastname": "Terpstra",
+                "country": "NED"
+            },{
+                "firstname": "Matteo",
+                "lastname": "Trentin",
+                "country": "ITA"
+            },{
+                "firstname": "Petr",
+                "lastname": "Vakoc",
+                "country": "CZE"
+            },{
+                "firstname": "Guillaume",
+                "lastname": "Van Keirsbulck",
+                "country": "BEL"
+            },{
+                "firstname": "Stijn",
+                "lastname": "Vandenbergh",
+                "country": "BEL"
+            },{
+                "firstname": "Martin",
+                "lastname": "Velits",
+                "country": "SVK"
+            },{
+                "firstname": "Julien",
+                "lastname": "Vermote",
+                "country": "BEL"
+            },{
+                "firstname": "Carlos",
+                "lastname": "Verona Quintanilla",
+                "country": "ESP"
+            },{
+                "firstname": "Lukasz",
+                "lastname": "Wisniowski",
+                "country": "POL"
+            }
+        ]
+    },{
         "code": "",
         "name": "",
         "country": "",
