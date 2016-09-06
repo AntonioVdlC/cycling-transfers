@@ -372,6 +372,134 @@
             }
         ]
     },{
+        "code": "CDT",
+        "name": "Cannondale-Drapac Pro Cycling Team",
+        "country": "USA",
+        "category": "WorldTour",
+        "roster": [
+            {
+                "firstname": "Jack",
+                "lastname": "Bauer",
+                "country": "NZL"
+            },{
+                "firstname": "Alberto",
+                "lastname": "Bettiol",
+                "country": "ITA"
+            },{
+                "firstname": "Patrick",
+                "lastname": "Bevin",
+                "country": "NZL"
+            },{
+                "firstname": "Matti",
+                "lastname": "Breschel",
+                "country": "DEN"
+            },{
+                "firstname": "Nathan",
+                "lastname": "Brown",
+                "country": "USA"
+            },{
+                "firstname": "Andre Fernando",
+                "lastname": "Cardoso",
+                "country": "POR"
+            },{
+                "firstname": "Simon",
+                "lastname": "Clarke",
+                "country": "AUS"
+            },{
+                "firstname": "Lawson",
+                "lastname": "Craddock",
+                "country": "USA"
+            },{
+                "firstname": "Joseph Lloyd",
+                "lastname": "Dombrowski",
+                "country": "USA"
+            },{
+                "firstname": "Davide",
+                "lastname": "Formolo",
+                "country": "ITA"
+            },{
+                "firstname": "Phillip",
+                "lastname": "Gaimon",
+                "country": "USA"
+            },{
+                "firstname": "Alex",
+                "lastname": "Howes",
+                "country": "USA"
+            },{
+                "firstname": "Benjamin",
+                "lastname": "King",
+                "country": "USA"
+            },{
+                "firstname": "Kristjan",
+                "lastname": "Koren",
+                "country": "SLO"
+            },{
+                "firstname": "Sebastian",
+                "lastname": "Langeveld",
+                "country": "NED"
+            },{
+                "firstname": "Alan",
+                "lastname": "Marangoni",
+                "country": "ITA"
+            },{
+                "firstname": "Moreno",
+                "lastname": "Moser",
+                "country": "ITA"
+            },{
+                "firstname": "Ryan",
+                "lastname": "Mullen",
+                "country": "IRL"
+            },{
+                "firstname": "Ramunas",
+                "lastname": "Navardauskas",
+                "country": "LTU"
+            },{
+                "firstname": "Pierre",
+                "lastname": "Rolland",
+                "country": "FRA"
+            },{
+                "firstname": "Kristoffer",
+                "lastname": "Skjerping",
+                "country": "NOR"
+            },{
+                "firstname": "Toms",
+                "lastname": "Skujins",
+                "country": "LAT"
+            },{
+                "firstname": "Tom Jelte",
+                "lastname": "Slagter",
+                "country": "NED"
+            },{
+                "firstname": "Andrew",
+                "lastname": "Talansky",
+                "country": "USA"
+            },{
+                "firstname": "Rigoberto",
+                "lastname": "Uran Uran",
+                "country": "COL"
+            },{
+                "firstname": "Dylan",
+                "lastname": "Van Baarle",
+                "country": "NED"
+            },{
+                "firstname": "Davide",
+                "lastname": "Villella",
+                "country": "ITA"
+            },{
+                "firstname": "Wouter",
+                "lastname": "Wippert",
+                "country": "NED"
+            },{
+                "firstname": "Michael",
+                "lastname": "Woods",
+                "country": "CAN"
+            },{
+                "firstname": "Ruben",
+                "lastname": "Zepuntke",
+                "country": "GER"
+            }
+        ]
+    },{
         "code": "",
         "name": "",
         "country": "",

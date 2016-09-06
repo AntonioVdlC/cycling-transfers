@@ -348,6 +348,60 @@
         "from": "SKY",
         "to": "BMC"
     },{
+        "firstname": "Andre Fernando",
+        "lastname": "Cardoso",
+        "country": "POR",
+        "from": "CDT",
+        "to": "?"
+    },{
+        "firstname": "Joseph Lloyd",
+        "lastname": "Dombrowski",
+        "country": "USA",
+        "from": "CDT",
+        "to": "CDT"
+    },{
+        "firstname": "Davide",
+        "lastname": "Formolo",
+        "country": "ITA",
+        "from": "CDT",
+        "to": "CDT"
+    },{
+        "firstname": "Alan",
+        "lastname": "Marangoni",
+        "country": "ITA",
+        "from": "CDT",
+        "to": "?"
+    },{
+        "firstname": "Moreno",
+        "lastname": "Moser",
+        "country": "ITA",
+        "from": "CDT",
+        "to": "AST"
+    },{
+        "firstname": "Andrew",
+        "lastname": "Talansky",
+        "country": "USA",
+        "from": "CDT",
+        "to": "CDT"
+    },{
+        "firstname": "Brendan",
+        "lastname": "Canty",
+        "country": "AUS",
+        "from": "DPC",
+        "to": "CDT"
+    },{
+        "firstname": "Hugh",
+        "lastname": "Carty",
+        "country": "GBR",
+        "from": "CJR",
+        "to": "CDT"
+    },{
+        "firstname": "Sep",
+        "lastname": "Vanmarcke",
+        "country": "BEL",
+        "from": "TLJ",
+        "to": "CDT"
+    },{
         "firstname": "",
         "lastname": "",
         "country": "",
