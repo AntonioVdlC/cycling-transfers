@@ -2044,6 +2044,114 @@
             }
         ]
     },{
+        "code": "TFS",
+        "name": "Trek - Segafredo",
+        "country": "USA",
+        "category": "WorldTour",
+        "roster": [
+            {
+                "firstname": "Eugenio",
+                "lastname": "Alafaci",
+                "country": "ITA"
+            },{
+                "firstname": "Julian",
+                "lastname": "Arredondo Moreno",
+                "country": "COL"
+            },{
+                "firstname": "Fumiyuki",
+                "lastname": "Beppu",
+                "country": "JPN"
+            },{
+                "firstname": "Julien",
+                "lastname": "Bernard",
+                "country": "FRA"
+            },{
+                "firstname": "Jack",
+                "lastname": "Bobridge",
+                "country": "AUS"
+            },{
+                "firstname": "Niccolo",
+                "lastname": "Bonifazio",
+                "country": "ITA"
+            },{
+                "firstname": "Fabian",
+                "lastname": "Cancellara",
+                "country": "SUI"
+            },{
+                "firstname": "Marco",
+                "lastname": "Coledan",
+                "country": "ITA"
+            },{
+                "firstname": "Stijn",
+                "lastname": "Devolder",
+                "country": "BEL"
+            },{
+                "firstname": "Laurent",
+                "lastname": "Didier",
+                "country": "LUX"
+            },{
+                "firstname": "Fabio",
+                "lastname": "Felline",
+                "country": "ITA"
+            },{
+                "firstname": "Ryder",
+                "lastname": "Hesjedal",
+                "country": "CAN"
+            },{
+                "firstname": "Markel",
+                "lastname": "Irizar Arranburu",
+                "country": "ESP"
+            },{
+                "firstname": "Bauke",
+                "lastname": "Mollema",
+                "country": "NED"
+            },{
+                "firstname": "Giacomo",
+                "lastname": "Nizzolo",
+                "country": "ITA"
+            },{
+                "firstname": "Yaroslav",
+                "lastname": "Popovych",
+                "country": "UKR"
+            },{
+                "firstname": "Gregory",
+                "lastname": "Rast",
+                "country": "SUI"
+            },{
+                "firstname": "Kiel",
+                "lastname": "Reijnen",
+                "country": "USA"
+            },{
+                "firstname": "Frank",
+                "lastname": "Schleck",
+                "country": "LUX"
+            },{
+                "firstname": "Peter",
+                "lastname": "Stetina",
+                "country": "USA"
+            },{
+                "firstname": "Jasper",
+                "lastname": "Stuyven",
+                "country": "BEL"
+            },{
+                "firstname": "Edward",
+                "lastname": "Theuns",
+                "country": "BEL"
+            },{
+                "firstname": "Boy",
+                "lastname": "Van Poppel",
+                "country": "NED"
+            },{
+                "firstname": "Ricardo",
+                "lastname": "Zoidl",
+                "country": "AUT"
+            },{
+                "firstname": "Haimar",
+                "lastname": "Zubeldia Agirre",
+                "country": "ESP"
+            }
+        ]
+    },{
         "code": "",
         "name": "",
         "country": "",
