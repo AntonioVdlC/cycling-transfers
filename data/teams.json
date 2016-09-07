@@ -1800,6 +1800,250 @@
             }
         ]
     },{
+        "code": "SKY",
+        "name": "Team Sky",
+        "country": "GBR",
+        "category": "WorldTour",
+        "roster": [
+            {
+                "firstname": "Ian",
+                "lastname": "Boswell",
+                "country": "USA"
+            },{
+                "firstname": "Philip",
+                "lastname": "Deignan",
+                "country": "IRL"
+            },{
+                "firstname": "Andrew",
+                "lastname": "Fenn",
+                "country": "GBR"
+            },{
+                "firstname": "Christopher",
+                "lastname": "Froome",
+                "country": "GBR"
+            },{
+                "firstname": "Michal",
+                "lastname": "Golas",
+                "country": "POL"
+            },{
+                "firstname": "Sebastian",
+                "lastname": "Henao Gomez",
+                "country": "COL"
+            },{
+                "firstname": "Sergio Luis",
+                "lastname": "Henao Montoya",
+                "country": "COL"
+            },{
+                "firstname": "Beñat",
+                "lastname": "Intxausti Elorriaga",
+                "country": "ESP"
+            },{
+                "firstname": "Peter",
+                "lastname": "Kennaugh",
+                "country": "GBR"
+            },{
+                "firstname": "Vasil",
+                "lastname": "Kiryienka",
+                "country": "BLR"
+            },{
+                "firstname": "Christian",
+                "lastname": "Knees",
+                "country": "GER"
+            },{
+                "firstname": "Michal",
+                "lastname": "Kwiatkowski",
+                "country": "POL"
+            },{
+                "firstname": "Leopold",
+                "lastname": "König",
+                "country": "CZE"
+            },{
+                "firstname": "Mikel",
+                "lastname": "Landa Meana",
+                "country": "ESP"
+            },{
+                "firstname": "David",
+                "lastname": "Lopez Garcia",
+                "country": "ESP"
+            },{
+                "firstname": "Gianni",
+                "lastname": "Moscon",
+                "country": "ITA"
+            },{
+                "firstname": "Mikel",
+                "lastname": "Nieve Iturralde",
+                "country": "ESP"
+            },{
+                "firstname": "Lars Petter",
+                "lastname": "Nordhaug",
+                "country": "NOR"
+            },{
+                "firstname": "Alex",
+                "lastname": "Peters",
+                "country": "GBR"
+            },{
+                "firstname": "Wout",
+                "lastname": "Poels",
+                "country": "NED"
+            },{
+                "firstname": "Salvatore",
+                "lastname": "Puccio",
+                "country": "ITA"
+            },{
+                "firstname": "Nicholas",
+                "lastname": "Roche",
+                "country": "IRL"
+            },{
+                "firstname": "Luke",
+                "lastname": "Rowe",
+                "country": "GBR"
+            },{
+                "firstname": "Ian",
+                "lastname": "Stannard",
+                "country": "GBR"
+            },{
+                "firstname": "Ben",
+                "lastname": "Swift",
+                "country": "GBR"
+            },{
+                "firstname": "Geraint",
+                "lastname": "Thomas",
+                "country": "GBR"
+            },{
+                "firstname": "Danny",
+                "lastname": "Van Poppel",
+                "country": "NED"
+            },{
+                "firstname": "Elia",
+                "lastname": "Viviani",
+                "country": "ITA"
+            },{
+                "firstname": "Xabier",
+                "lastname": "Zandio Echaide",
+                "country": "ESP"
+            }
+        ]
+    },{
+        "code": "TNK",
+        "name": "Tinkoff",
+        "country": "RUS",
+        "category": "WorldTour",
+        "roster": [
+            {
+                "firstname": "Erik",
+                "lastname": "Baska",
+                "country": "SVK"
+            },{
+                "firstname": "Ivan",
+                "lastname": "Basso",
+                "country": "ITA"
+            },{
+                "firstname": "Daniele",
+                "lastname": "Bennati",
+                "country": "ITA"
+            },{
+                "firstname": "Adam",
+                "lastname": "Blythe",
+                "country": "GBR"
+            },{
+                "firstname": "Manuele",
+                "lastname": "Boaro",
+                "country": "ITA"
+            },{
+                "firstname": "Maciej",
+                "lastname": "Bodnar",
+                "country": "POL"
+            },{
+                "firstname": "Pavel",
+                "lastname": "Brutt",
+                "country": "RUS"
+            },{
+                "firstname": "Alberto",
+                "lastname": "Contador Velasco",
+                "country": "ESP"
+            },{
+                "firstname": "Oscar",
+                "lastname": "Gatto",
+                "country": "ITA"
+            },{
+                "firstname": "Michael",
+                "lastname": "Gogl",
+                "country": "AUT"
+            },{
+                "firstname": "Jesper",
+                "lastname": "Hansen",
+                "country": "DEN"
+            },{
+                "firstname": "Jesus Alberto",
+                "lastname": "Hernandez Blazquez",
+                "country": "ESP"
+            },{
+                "firstname": "Robert",
+                "lastname": "Kiserlovski",
+                "country": "CRO"
+            },{
+                "firstname": "Michal",
+                "lastname": "Kolár",
+                "country": "SVK"
+            },{
+                "firstname": "Roman",
+                "lastname": "Kreuziger",
+                "country": "CZE"
+            },{
+                "firstname": "Rafal",
+                "lastname": "Majka",
+                "country": "POL"
+            },{
+                "firstname": "Jay",
+                "lastname": "McCarthy",
+                "country": "AUS"
+            },{
+                "firstname": "Sergio Miguel",
+                "lastname": "Moreira Paulinho",
+                "country": "POR"
+            },{
+                "firstname": "Evgeny",
+                "lastname": "Petrov",
+                "country": "RUS"
+            },{
+                "firstname": "Pawel",
+                "lastname": "Poljanski",
+                "country": "POL"
+            },{
+                "firstname": "Michael",
+                "lastname": "Rogers",
+                "country": "AUS"
+            },{
+                "firstname": "Ivan",
+                "lastname": "Rovny",
+                "country": "RUS"
+            },{
+                "firstname": "Juraj",
+                "lastname": "Sagan",
+                "country": "SVK"
+            },{
+                "firstname": "Peter",
+                "lastname": "Sagan",
+                "country": "SVK"
+            },{
+                "firstname": "Matteo",
+                "lastname": "Tosatto",
+                "country": "ITA"
+            },{
+                "firstname": "Yury",
+                "lastname": "Trofimov",
+                "country": "RUS"
+            },{
+                "firstname": "Nikolay",
+                "lastname": "Trusov",
+                "country": "RUS"
+            },{
+                "firstname": "Michael",
+                "lastname": "Valgren Andersen",
+                "country": "DEN"
+            }
+        ]
+    },{
         "code": "",
         "name": "",
         "country": "",

@@ -1242,6 +1242,216 @@
         "from": "ROP",
         "to": "TLJ"
     },{
+        "firstname": "Andrew",
+        "lastname": "Fenn",
+        "country": "GBR",
+        "from": "SKY",
+        "to": "?"
+    },{
+        "firstname": "Christopher",
+        "lastname": "Froome",
+        "country": "GBR",
+        "from": "SKY",
+        "to": "SKY"
+    },{
+        "firstname": "Sergio Luis",
+        "lastname": "Henao Montoya",
+        "country": "COL",
+        "from": "SKY",
+        "to": "?"
+    },{
+        "firstname": "Christian",
+        "lastname": "Knees",
+        "country": "GER",
+        "from": "SKY",
+        "to": "SKY"
+    },{
+        "firstname": "Leopold",
+        "lastname": "König",
+        "country": "CZE",
+        "from": "SKY",
+        "to": "?"
+    },{
+        "firstname": "David",
+        "lastname": "Lopez Garcia",
+        "country": "ESP",
+        "from": "SKY",
+        "to": "?"
+    },{
+        "firstname": "Wout",
+        "lastname": "Poels",
+        "country": "NED",
+        "from": "SKY",
+        "to": "?"
+    },{
+        "firstname": "Salvatore",
+        "lastname": "Puccio",
+        "country": "ITA",
+        "from": "SKY",
+        "to": "SKY"
+    },{
+        "firstname": "Luke",
+        "lastname": "Rowe",
+        "country": "GBR",
+        "from": "SKY",
+        "to": "SKY"
+    },{
+        "firstname": "Geraint",
+        "lastname": "Thomas",
+        "country": "GBR",
+        "from": "SKY",
+        "to": "SKY"
+    },{
+        "firstname": "Xabier",
+        "lastname": "Zandio Echaide",
+        "country": "ESP",
+        "from": "SKY",
+        "to": "-"
+    },{
+        "firstname": "Owain",
+        "lastname": "Doull",
+        "country": "GBR",
+        "from": "-",
+        "to": "SKY"
+    },{
+        "firstname": "Tao",
+        "lastname": "Geoghegan Hart",
+        "country": "GBR",
+        "from": "-",
+        "to": "SKY"
+    },{
+        "firstname": "Erik",
+        "lastname": "Baska",
+        "country": "SVK",
+        "from": "TNK",
+        "to": "BOA"
+    },{
+        "firstname": "Ivan",
+        "lastname": "Basso",
+        "country": "ITA",
+        "from": "TNK",
+        "to": "-"
+    },{
+        "firstname": "Adam",
+        "lastname": "Blythe",
+        "country": "GBR",
+        "from": "TNK",
+        "to": "?"
+    },{
+        "firstname": "Manuele",
+        "lastname": "Boaro",
+        "country": "ITA",
+        "from": "TNK",
+        "to": "BAH"
+    },{
+        "firstname": "Maciej",
+        "lastname": "Bodnar",
+        "country": "POL",
+        "from": "TNK",
+        "to": "BOA"
+    },{
+        "firstname": "Pavel",
+        "lastname": "Brutt",
+        "country": "RUS",
+        "from": "TNK",
+        "to": "?"
+    },{
+        "firstname": "Alberto",
+        "lastname": "Contador Velasco",
+        "country": "ESP",
+        "from": "TNK",
+        "to": "TFS"
+    },{
+        "firstname": "Michael",
+        "lastname": "Gogl",
+        "country": "AUT",
+        "from": "TNK",
+        "to": "?"
+    },{
+        "firstname": "Jesus Alberto",
+        "lastname": "Hernandez Blazquez",
+        "country": "ESP",
+        "from": "TNK",
+        "to": "?"
+    },{
+        "firstname": "Michal",
+        "lastname": "Kolár",
+        "country": "SVK",
+        "from": "TNK",
+        "to": "BOA"
+    },{
+        "firstname": "Rafal",
+        "lastname": "Majka",
+        "country": "POL",
+        "from": "TNK",
+        "to": "BOA"
+    },{
+        "firstname": "Jay",
+        "lastname": "McCarthy",
+        "country": "AUS",
+        "from": "TNK",
+        "to": "?"
+    },{
+        "firstname": "Sergio Miguel",
+        "lastname": "Moreira Paulinho",
+        "country": "POR",
+        "from": "TNK",
+        "to": "?"
+    },{
+        "firstname": "Evgeny",
+        "lastname": "Petrov",
+        "country": "RUS",
+        "from": "TNK",
+        "to": "?"
+    },{
+        "firstname": "Pawel",
+        "lastname": "Poljanski",
+        "country": "POL",
+        "from": "TNK",
+        "to": "BOA"
+    },{
+        "firstname": "Michael",
+        "lastname": "Rogers",
+        "country": "AUS",
+        "from": "TNK",
+        "to": "-"
+    },{
+        "firstname": "Ivan",
+        "lastname": "Rovny",
+        "country": "RUS",
+        "from": "TNK",
+        "to": "GAZ"
+    },{
+        "firstname": "Juraj",
+        "lastname": "Sagan",
+        "country": "SVK",
+        "from": "TNK",
+        "to": "BOA"
+    },{
+        "firstname": "Peter",
+        "lastname": "Sagan",
+        "country": "SVK",
+        "from": "TNK",
+        "to": "BOA"
+    },{
+        "firstname": "Matteo",
+        "lastname": "Tosatto",
+        "country": "ITA",
+        "from": "TNK",
+        "to": "?"
+    },{
+        "firstname": "Yury",
+        "lastname": "Trofimov",
+        "country": "RUS",
+        "from": "TNK",
+        "to": "?"
+    },{
+        "firstname": "Nikolay",
+        "lastname": "Trusov",
+        "country": "RUS",
+        "from": "TNK",
+        "to": "GAZ"
+    },{
         "firstname": "",
         "lastname": "",
         "country": "",
