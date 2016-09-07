@@ -1098,6 +1098,150 @@
         "from": "TLJ",
         "to": "TGA"
     },{
+        "firstname": "Marco",
+        "lastname": "Haller",
+        "country": "AUT",
+        "from": "KAT",
+        "to": "KAT"
+    },{
+        "firstname": "Viacheslav",
+        "lastname": "Kuznetsov",
+        "country": "RUS",
+        "from": "KAT",
+        "to": "KAT"
+    },{
+        "firstname": "Sergey",
+        "lastname": "Lagutin",
+        "country": "RUS",
+        "from": "KAT",
+        "to": "?"
+    },{
+        "firstname": "Michael",
+        "lastname": "Morkov",
+        "country": "DEN",
+        "from": "KAT",
+        "to": "KAT"
+    },{
+        "firstname": "Joaquim",
+        "lastname": "Rodriguez Oliver",
+        "country": "ESP",
+        "from": "KAT",
+        "to": "-"
+    },{
+        "firstname": "Jurgen",
+        "lastname": "Van Den Broeck",
+        "country": "BEL",
+        "from": "KAT",
+        "to": "TLJ"
+    },{
+        "firstname": "Jenthe",
+        "lastname": "Biermans",
+        "country": "BEL",
+        "from": "-",
+        "to": "KAT"
+    },{
+        "firstname": "José",
+        "lastname": "Gonçalves",
+        "country": "POR",
+        "from": "CJR",
+        "to": "KAT"
+    },{
+        "firstname": "Robert",
+        "lastname": "Kiserlovski",
+        "country": "CRO",
+        "from": "TNK",
+        "to": "KAT"
+    },{
+        "firstname": "Maurits",
+        "lastname": "Lammertink",
+        "country": "NED",
+        "from": "ROP",
+        "to": "KAT"
+    },{
+        "firstname": "Baptiste",
+        "lastname": "Planckaert",
+        "country": "BEL",
+        "from": "-",
+        "to": "KAT"
+    },{
+        "firstname": "Mads",
+        "lastname": "Würtz Schmidt",
+        "country": "DEN",
+        "from": "-",
+        "to": "KAT"
+    },{
+        "firstname": "George",
+        "lastname": "Bennett",
+        "country": "NZL",
+        "from": "TLJ",
+        "to": "TLJ"
+    },{
+        "firstname": "Robert",
+        "lastname": "Gesink",
+        "country": "NED",
+        "from": "TLJ",
+        "to": "TLJ"
+    },{
+        "firstname": "Moreno",
+        "lastname": "Hofland",
+        "country": "NED",
+        "from": "TLJ",
+        "to": "?"
+    },{
+        "firstname": "Steven",
+        "lastname": "Kruijswijk",
+        "country": "NED",
+        "from": "TLJ",
+        "to": "TLJ"
+    },{
+        "firstname": "Timo",
+        "lastname": "Roosen",
+        "country": "NED",
+        "from": "TLJ",
+        "to": "TLJ"
+    },{
+        "firstname": "Maarten",
+        "lastname": "Tjallingii",
+        "country": "NED",
+        "from": "TLJ",
+        "to": "-"
+    },{
+        "firstname": "Tom",
+        "lastname": "Van Asbroeck",
+        "country": "BEL",
+        "from": "TLJ",
+        "to": "?"
+    },{
+        "firstname": "Jos",
+        "lastname": "Van Emden",
+        "country": "NED",
+        "from": "TLJ",
+        "to": "TLJ"
+    },{
+        "firstname": "Robert",
+        "lastname": "Wagner",
+        "country": "GER",
+        "from": "TLJ",
+        "to": "TLJ"
+    },{
+        "firstname": "Floris",
+        "lastname": "De Tier",
+        "country": "BEL",
+        "from": "TSV",
+        "to": "TLJ"
+    },{
+        "firstname": "Daan",
+        "lastname": "Olivier",
+        "country": "NED",
+        "from": "-",
+        "to": "TLJ"
+    },{
+        "firstname": "Antwan",
+        "lastname": "Tolhoek",
+        "country": "NED",
+        "from": "ROP",
+        "to": "TLJ"
+    },{
         "firstname": "",
         "lastname": "",
         "country": "",
