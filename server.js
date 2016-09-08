@@ -2,7 +2,7 @@ const express = require("express")
 const app = express()
 
 app.use(express.static(__dirname + "/build"))
-app.use("/api", require("./api/routes"))
+app.use("/api", require("./api"))
 
 app.get("/", (req, res) => {
     res.sendFile(__dirname + "/build/index.html")
