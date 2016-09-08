@@ -29,6 +29,11 @@ const App = React.createClass({
             })
         })
     },
+    
+    handleTeamSelect(e) {
+        if (e.target.value)
+            window.location = "#" + e.target.value
+    },
 
     render() {
         return (
@@ -37,7 +42,10 @@ const App = React.createClass({
                     <Header title="Cycling Transfers" />
                 </header>
                 <main className="main">
-                    <TeamSelector teams={this.state.teams} />
+                    <TeamSelector 
+                        teams={this.state.teams}
+                        onSelect={this.handleTeamSelect}
+                    />
                     <TeamList 
                         teams={this.state.teams} 
                         transfers={this.state.transfers}

@@ -2,27 +2,18 @@ import React from "react"
 
 import "./../styles/TeamSelector.css"
 
-const TeamSelector = React.createClass({
-    handleChange(e) {
-        if (e.target.value)
-            window.location = "#" + e.target.value
-    },
-
-    render() {
-        return (
-            <div className="team-selector">
-                <label htmlFor="team-select">Go to: </label>
-                <select id="team-select" onChange={this.handleChange}>
-                    <option value="">-</option>
-                    {this.props.teams.map((team) => 
-                        <option key={team.code} value={`${team.code}`}>
-                            {team.name}
-                        </option>
-                    )}
-                </select>
-            </div>
-        )
-    }
-})
+const TeamSelector = ({teams, onSelect}) => (
+    <div className="team-selector">
+        <label htmlFor="team-select">Go to: </label>
+        <select id="team-select" onChange={onSelect}>
+            <option value="">-</option>
+            {teams.map((team) => 
+                <option key={team.code} value={`${team.code}`}>
+                    {team.name}
+                </option>
+            )}
+        </select>
+    </div>
+)
 
 export default TeamSelector
