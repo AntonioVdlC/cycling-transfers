@@ -81,7 +81,7 @@
         "firstname": "Rudy",
         "lastname": "Barbier",
         "country": "FRA",
-        "from": "RLM",
+        "from": "-",
         "to": "ALM"
     },{
         "firstname": "Clément",
@@ -712,7 +712,7 @@
         "lastname": "Van Genechten",
         "country": "BEL",
         "from": "IAM",
-        "to": "?"
+        "to": "COF"
     },{
         "firstname": "Lawrence",
         "lastname": "Warbasse",
@@ -1745,6 +1745,90 @@
         "country": "ESP",
         "from": "-",
         "to": "CJR"
+    },{
+        "firstname": "Jonas",
+        "lastname": "Ahlstrand",
+        "country": "SWE",
+        "from": "COF",
+        "to": "?"
+    },{
+        "firstname": "Loic",
+        "lastname": "Chetout",
+        "country": "FRA",
+        "from": "COF",
+        "to": "COF"
+    },{
+        "firstname": "Romain",
+        "lastname": "Hardy",
+        "country": "FRA",
+        "from": "COF",
+        "to": "FVC"
+    },{
+        "firstname": "Arnold",
+        "lastname": "Jeannesson",
+        "country": "FRA",
+        "from": "COF",
+        "to": "FVC"
+    },{
+        "firstname": "Daniel",
+        "lastname": "Navarro Garcia",
+        "country": "ESP",
+        "from": "COF",
+        "to": "COF"
+    },{
+        "firstname": "Anthony",
+        "lastname": "Turgis",
+        "country": "FRA",
+        "from": "COF",
+        "to": "COF"
+    },{
+        "firstname": "Kenneth",
+        "lastname": "Van Bilsen",
+        "country": "BEL",
+        "from": "COF",
+        "to": "COF"
+    },{
+        "firstname": "Michael",
+        "lastname": "Van Staeyen",
+        "country": "BEL",
+        "from": "COF",
+        "to": "COF"
+    },{
+        "firstname": "Dimitri",
+        "lastname": "Claeys",
+        "country": "BEL",
+        "from": "WGG",
+        "to": "COF"
+    },{
+        "firstname": "Jimmy",
+        "lastname": "Turgis",
+        "country": "FRA",
+        "from": "-",
+        "to": "COF"
+    },{
+        "firstname": "Delio",
+        "lastname": "Fernandez Cruz",
+        "country": "ESP",
+        "from": "DMP",
+        "to": "DMP"
+    },{
+        "firstname": "Benjamin",
+        "lastname": "Giraud",
+        "country": "FRA",
+        "from": "DMP",
+        "to": "DMP"
+    },{
+        "firstname": "Thierry",
+        "lastname": "Hupond",
+        "country": "FRA",
+        "from": "DMP",
+        "to": "DMP"
+    },{
+        "firstname": "Evaldas",
+        "lastname": "Siskevicius",
+        "country": "LTU",
+        "from": "DMP",
+        "to": "DMP"
     },{
         "firstname": "",
         "lastname": "",

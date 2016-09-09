@@ -2606,6 +2606,190 @@
             }
         ]
     },{
+        "code": "COF",
+        "name": "Cofidis, Solutions Crédits",
+        "country": "FRA",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Jonas",
+                "lastname": "Ahlstrand",
+                "country": "SWE"
+            },{
+                "firstname": "Yoan",
+                "lastname": "Bagot",
+                "country": "FRA"
+            },{
+                "firstname": "Nacer",
+                "lastname": "Bouhanni",
+                "country": "FRA"
+            },{
+                "firstname": "Rayane",
+                "lastname": "Bouhanni",
+                "country": "FRA"
+            },{
+                "firstname": "Borut",
+                "lastname": "Bozic",
+                "country": "SLO"
+            },{
+                "firstname": "Loic",
+                "lastname": "Chetout",
+                "country": "FRA"
+            },{
+                "firstname": "Jérôme",
+                "lastname": "Cousin",
+                "country": "FRA"
+            },{
+                "firstname": "Nicolas",
+                "lastname": "Edet",
+                "country": "FRA"
+            },{
+                "firstname": "Romain",
+                "lastname": "Hardy",
+                "country": "FRA"
+            },{
+                "firstname": "Hugo",
+                "lastname": "Hofstetter",
+                "country": "FRA"
+            },{
+                "firstname": "Arnold",
+                "lastname": "Jeannesson",
+                "country": "FRA"
+            },{
+                "firstname": "Gert",
+                "lastname": "Joeaar",
+                "country": "EST"
+            },{
+                "firstname": "Christophe",
+                "lastname": "Laporte",
+                "country": "FRA"
+            },{
+                "firstname": "Cyril",
+                "lastname": "Lemoine",
+                "country": "FRA"
+            },{
+                "firstname": "Luis Angel",
+                "lastname": "Mate Mardones",
+                "country": "ESP"
+            },{
+                "firstname": "Rudy",
+                "lastname": "Molard",
+                "country": "FRA"
+            },{
+                "firstname": "Daniel",
+                "lastname": "Navarro Garcia",
+                "country": "ESP"
+            },{
+                "firstname": "Anthony",
+                "lastname": "Perez",
+                "country": "FRA"
+            },{
+                "firstname": "Stéphane",
+                "lastname": "Rossetto",
+                "country": "FRA"
+            },{
+                "firstname": "Florian",
+                "lastname": "Senéchal",
+                "country": "FRA"
+            },{
+                "firstname": "Julien",
+                "lastname": "Simon",
+                "country": "FRA"
+            },{
+                "firstname": "Geoffrey",
+                "lastname": "Soupe",
+                "country": "FRA"
+            },{
+                "firstname": "Anthony",
+                "lastname": "Turgis",
+                "country": "FRA"
+            },{
+                "firstname": "Kenneth",
+                "lastname": "Van Bilsen",
+                "country": "BEL"
+            },{
+                "firstname": "Michael",
+                "lastname": "Van Staeyen",
+                "country": "BEL"
+            },{
+                "firstname": "Clément",
+                "lastname": "Venturini",
+                "country": "FRA"
+            }
+        ]
+    },{
+        "code": "DMP",
+        "name": "Delko Marseille Provence KTM",
+        "country": "FRA",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Mikel",
+                "lastname": "Aristi Gardoki",
+                "country": "ESP"
+            },{
+                "firstname": "Romain",
+                "lastname": "Combaud",
+                "country": "FRA"
+            },{
+                "firstname": "Rémy",
+                "lastname": "Di Grégorio",
+                "country": "FRA"
+            },{
+                "firstname": "Daniel",
+                "lastname": "Diaz",
+                "country": "ARG"
+            },{
+                "firstname": "Leonardo Fabio",
+                "lastname": "Duque",
+                "country": "FRA"
+            },{
+                "firstname": "Julien",
+                "lastname": "El Farès",
+                "country": "FRA"
+            },{
+                "firstname": "Delio",
+                "lastname": "Fernandez Cruz",
+                "country": "ESP"
+            },{
+                "firstname": "Fredrik Strand",
+                "lastname": "Galta",
+                "country": "NOR"
+            },{
+                "firstname": "Benjamin",
+                "lastname": "Giraud",
+                "country": "FRA"
+            },{
+                "firstname": "Thierry",
+                "lastname": "Hupond",
+                "country": "FRA"
+            },{
+                "firstname": "Asbjørn",
+                "lastname": "Kragh Andersen",
+                "country": "DEN"
+            },{
+                "firstname": "Martin",
+                "lastname": "Laas",
+                "country": "EST"
+            },{
+                "firstname": "Christophe",
+                "lastname": "Laporte",
+                "country": "FRA"
+            },{
+                "firstname": "Yannick",
+                "lastname": "Martinez",
+                "country": "FRA"
+            },{
+                "firstname": "Quentin",
+                "lastname": "Pacher",
+                "country": "FRA"
+            },{
+                "firstname": "Evaldas",
+                "lastname": "Siskevicius",
+                "country": "LTU"
+            }
+        ]
+    },{
         "code": "",
         "name": "",
         "country": "",
