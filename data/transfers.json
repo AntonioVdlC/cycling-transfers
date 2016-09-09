@@ -1514,7 +1514,7 @@
     },{
         "firstname": "Jasper",
         "lastname": "Stuyven",
-        "country": "ESP",
+        "country": "BEL",
         "from": "TFS",
         "to": "TFS"
     },{
@@ -1529,6 +1529,12 @@
         "country": "ESP",
         "from": "TFS",
         "to": "?"
+    },{
+        "firstname": "Yaroslav",
+        "lastname": "Popovych",
+        "country": "UKR",
+        "from": "TFS",
+        "to": "-"
     },{
         "firstname": "Leonardo",
         "lastname": "Basso",
