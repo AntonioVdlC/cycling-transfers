@@ -6,28 +6,18 @@ import TeamList from "./TeamList"
 
 import "./../styles/App.css"
 
+import teams from "./../../data/teams.json"
+import transfers from "./../../data/transfers.json"
+
+import getTeams from "./../utils/getTeams"
+import getTransfers from "./../utils/getTransfers"
+
 const App = React.createClass({
     getInitialState() {
         return {
-            teams: [],
-            transfers: {}
+            teams: getTeams(teams),
+            transfers: getTransfers(teams, transfers)
         }
-    },
-
-    componentDidMount() {
-        const urls = [
-            "/api/teams",
-            "/api/transfers"          
-        ]
-
-        Promise.all(urls.map(url => 
-            fetch(url).then(res => res.json())
-        )).then(data => {
-            this.setState({
-                teams: data[0],
-                transfers: data[1]
-            })
-        })
     },
     
     handleTeamSelect(e) {

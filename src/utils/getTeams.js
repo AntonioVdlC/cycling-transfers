@@ -1,7 +1,5 @@
-const teams = require("../data/teams.json")
-
-module.exports = (req, res) => {
-    res.json(teams
+export default function getTeams (teams) {
+    return teams
         .filter((team) => team.code)
         .map((team) => {
             return {
@@ -11,5 +9,4 @@ module.exports = (req, res) => {
                 category: team.category
             }
         })
-    )
 }
