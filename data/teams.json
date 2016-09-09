@@ -2314,6 +2314,298 @@
             }
         ]
     },{
+        "code": "BOA",
+        "name": "Bora-Argon 18",
+        "country": "GER",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Shane",
+                "lastname": "Archbold",
+                "country": "NZL"
+            },{
+                "firstname": "Jan",
+                "lastname": "Barta",
+                "country": "CZE"
+            },{
+                "firstname": "Phil",
+                "lastname": "Bauhaus",
+                "country": "GER"
+            },{
+                "firstname": "Cesare",
+                "lastname": "Benedetti",
+                "country": "ITA"
+            },{
+                "firstname": "Sam",
+                "lastname": "Bennett",
+                "country": "IRL"
+            },{
+                "firstname": "Emanuel",
+                "lastname": "Buchmann",
+                "country": "GER"
+            },{
+                "firstname": "Zakkari",
+                "lastname": "Dempster",
+                "country": "AUS"
+            },{
+                "firstname": "Silvio",
+                "lastname": "Herklotz",
+                "country": "GER"
+            },{
+                "firstname": "Bartosz",
+                "lastname": "Huzarski",
+                "country": "POL"
+            },{
+                "firstname": "Patrick",
+                "lastname": "Konrad",
+                "country": "AUT"
+            },{
+                "firstname": "Ralf",
+                "lastname": "Matzka",
+                "country": "GER"
+            },{
+                "firstname": "Gregor",
+                "lastname": "Muhlberger",
+                "country": "AUT"
+            },{
+                "firstname": "Dominik",
+                "lastname": "Nerz",
+                "country": "GER"
+            },{
+                "firstname": "Christoph",
+                "lastname": "Pfingsten",
+                "country": "GER"
+            },{
+                "firstname": "José João",
+                "lastname": "Pimenta Costa Mendes",
+                "country": "POR"
+            },{
+                "firstname": "Lukas",
+                "lastname": "Pöstlberger",
+                "country": "AUT"
+            },{
+                "firstname": "Andreas",
+                "lastname": "Schillinger",
+                "country": "GER"
+            },{
+                "firstname": "Michael",
+                "lastname": "Schwarzmann",
+                "country": "GER"
+            },{
+                "firstname": "Rudiger",
+                "lastname": "Selig",
+                "country": "GER"
+            },{
+                "firstname": "Scott",
+                "lastname": "Thwaites",
+                "country": "GBR"
+            },{
+                "firstname": "Paul",
+                "lastname": "Voss",
+                "country": "GER"
+            }
+        ]
+    },{
+        "code": "CJR",
+        "name": "Caja Rural-Seguros RGA",
+        "country": "ESP",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Domingos",
+                "lastname": "André Maciel Gonçalves",
+                "country": "POR"
+            },{
+                "firstname": "Javier Francisco",
+                "lastname": "Aramendia Lorente",
+                "country": "ESP"
+            },{
+                "firstname": "David",
+                "lastname": "Arroyo Duran",
+                "country": "ESP"
+            },{
+                "firstname": "Carlos",
+                "lastname": "Barbero Cuesta",
+                "country": "ESP"
+            },{
+                "firstname": "Miguel Angel",
+                "lastname": "Benito Diez",
+                "country": "ESP"
+            },{
+                "firstname": "Pello",
+                "lastname": "Bilbao Lopez de Armentia",
+                "country": "ESP"
+            },{
+                "firstname": "Hugh",
+                "lastname": "Carty",
+                "country": "GBR"
+            },{
+                "firstname": "Fabricio",
+                "lastname": "Ferrari Barcelo",
+                "country": "URU"
+            },{
+                "firstname": "José",
+                "lastname": "Gonçalves",
+                "country": "POR"
+            },{
+                "firstname": "Jonathan",
+                "lastname": "Lastra Martinez",
+                "country": "ESP"
+            },{
+                "firstname": "Angel",
+                "lastname": "Madrazo Ruiz",
+                "country": "ESP"
+            },{
+                "firstname": "Luis",
+                "lastname": "Mas Bonet",
+                "country": "ESP"
+            },{
+                "firstname": "Antonio",
+                "lastname": "Molina",
+                "country": "ESP"
+            },{
+                "firstname": "Sergio",
+                "lastname": "Pardilla Bellon",
+                "country": "ESP"
+            },{
+                "firstname": "Eduard",
+                "lastname": "Prades Reverte",
+                "country": "ESP"
+            },{
+                "firstname": "Jaime",
+                "lastname": "Roson Garcia",
+                "country": "ESP"
+            },{
+                "firstname": "Diego",
+                "lastname": "Rubio",
+                "country": "ESP"
+            },{
+                "firstname": "Hector",
+                "lastname": "Saez Benito",
+                "country": "ESP"
+            },{
+                "firstname": "Ricardo",
+                "lastname": "Vilela",
+                "country": "POR"
+            }
+        ]
+    },{
+        "code": "CCC",
+        "name": "CCC Sprandi Polkowice",
+        "country": "POL",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Alan",
+                "lastname": "Banaszek",
+                "country": "POL"
+            },{
+                "firstname": "Piotr",
+                "lastname": "Brozyna",
+                "country": "POL"
+            },{
+                "firstname": "Josef",
+                "lastname": "Cerny",
+                "country": "CZE"
+            },{
+                "firstname": "Victor",
+                "lastname": "De La Parte",
+                "country": "ESP"
+            },{
+                "firstname": "Felix",
+                "lastname": "Grosschartner",
+                "country": "AUT"
+            },{
+                "firstname": "Jan",
+                "lastname": "Hirt",
+                "country": "CZE"
+            },{
+                "firstname": "Adrian",
+                "lastname": "Honkisz",
+                "country": "POL"
+            },{
+                "firstname": "Jakub",
+                "lastname": "Kaczmarek",
+                "country": "POL"
+            },{
+                "firstname": "Tomasz",
+                "lastname": "Kiendys",
+                "country": "POL"
+            },{
+                "firstname": "Adrian",
+                "lastname": "Kurek",
+                "country": "POL"
+            },{
+                "firstname": "Eryk",
+                "lastname": "Laton",
+                "country": "POL"
+            },{
+                "firstname": "Kamil",
+                "lastname": "Malecki",
+                "country": "POL"
+            },{
+                "firstname": "Jaroslaw",
+                "lastname": "Maryck",
+                "country": "POL"
+            },{
+                "firstname": "Bartlomiej",
+                "lastname": "Matysiak",
+                "country": "POL"
+            },{
+                "firstname": "Nikolay",
+                "lastname": "Mihaylov",
+                "country": "BUL"
+            },{
+                "firstname": "Marcin",
+                "lastname": "Mrozek",
+                "country": "POL"
+            },{
+                "firstname": "Lukasz",
+                "lastname": "Owsian",
+                "country": "POL"
+            },{
+                "firstname": "Michal",
+                "lastname": "Paluta",
+                "country": "POL"
+            },{
+                "firstname": "Maciej",
+                "lastname": "Paterski",
+                "country": "POL"
+            },{
+                "firstname": "Leszek",
+                "lastname": "Plucinski",
+                "country": "POL"
+            },{
+                "firstname": "Simone",
+                "lastname": "Ponzi",
+                "country": "ITA"
+            },{
+                "firstname": "Davide",
+                "lastname": "Rebellin",
+                "country": "ITA"
+            },{
+                "firstname": "Branislau",
+                "lastname": "Samoilau",
+                "country": "BLR"
+            },{
+                "firstname": "Grzegorz",
+                "lastname": "Stepniak",
+                "country": "POL"
+            },{
+                "firstname": "Partyk",
+                "lastname": "Stosz",
+                "country": "POL"
+            },{
+                "firstname": "Sylwester",
+                "lastname": "Szmyd",
+                "country": "POL"
+            },{
+                "firstname": "Mateusz",
+                "lastname": "Taciak",
+                "country": "POL"
+            }
+        ]
+    },{
         "code": "",
         "name": "",
         "country": "",

@@ -1698,6 +1698,54 @@
         "from": "-",
         "to": "BAR"
     },{
+        "firstname": "Bartosz",
+        "lastname": "Huzarski",
+        "country": "POL",
+        "from": "BOA",
+        "to": "?"
+    },{
+        "firstname": "Dominik",
+        "lastname": "Nerz",
+        "country": "GER",
+        "from": "BOA",
+        "to": "?"
+    },{
+        "firstname": "Scott",
+        "lastname": "Thwaites",
+        "country": "GBR",
+        "from": "BOA",
+        "to": "?"
+    },{
+        "firstname": "Pascal",
+        "lastname": "Ackermann",
+        "country": "GER",
+        "from": "-",
+        "to": "BOA"
+    },{
+        "firstname": "Angel",
+        "lastname": "Madrazo Ruiz",
+        "country": "ESP",
+        "from": "CJR",
+        "to": "DMP"
+    },{
+        "firstname": "Luis",
+        "lastname": "Mas Bonet",
+        "country": "ESP",
+        "from": "CJR",
+        "to": "CJR"
+    },{
+        "firstname": "Sergio",
+        "lastname": "Pardilla Bellon",
+        "country": "ESP",
+        "from": "CJR",
+        "to": "CJR"
+    },{
+        "firstname": "Jon",
+        "lastname": "Irisarri Rincon",
+        "country": "ESP",
+        "from": "-",
+        "to": "CJR"
+    },{
         "firstname": "",
         "lastname": "",
         "country": "",
