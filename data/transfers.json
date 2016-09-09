@@ -1578,6 +1578,30 @@
         "from": "CDT",
         "to": "?"
     },{
+        "firstname": "Grega",
+        "lastname": "Bole",
+        "country": "SLO",
+        "from": "NIP",
+        "to": "BAH"
+    },{
+        "firstname": "Borut",
+        "lastname": "Bozic",
+        "country": "SLO",
+        "from": "COF",
+        "to": "BAH"
+    },{
+        "firstname": "Sonny",
+        "lastname": "Colbrelli",
+        "country": "ITA",
+        "from": "BAR",
+        "to": "BAH"
+    },{
+        "firstname": "Enrico",
+        "lastname": "Gasparotto",
+        "country": "ITA",
+        "from": "WGG",
+        "to": "BAH"
+    },{
         "firstname": "",
         "lastname": "",
         "country": "",
