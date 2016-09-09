@@ -2,9 +2,13 @@ import React from "react"
 import { connect } from "react-redux"
 import { showTeam } from "./../actions"
 
-import teams from "./../../data/teams.json"
+import teamsJSON from "./../../data/teams.json"
+
+import getTeams from "./../utils/getTeams"
 
 import "./../styles/TeamSelector.css"
+
+const teams = getTeams(teamsJSON)
 
 let TeamSelector = ({dispatch}) => (
     <div className="team-selector">
@@ -15,11 +19,15 @@ let TeamSelector = ({dispatch}) => (
             e.target.value = ""
         }}>
             <option value="">-</option>
-            {teams.map((team) => 
+            <optgroup label="WorldTour">
+            {teams
+                .filter((team) => team.category === "WorldTour")
+                .map((team) => 
                 <option key={team.code} value={`${team.code}`}>
                     {team.name}
                 </option>
             )}
+            </optgroup>
         </select>
     </div>
 )
