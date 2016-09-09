@@ -5,10 +5,12 @@ import { showTeam } from "./../actions"
 import teamsJSON from "./../../data/teams.json"
 
 import getTeams from "./../utils/getTeams"
+import getCategories from "./../utils/getCategories"
 
 import "./../styles/TeamSelector.css"
 
 const teams = getTeams(teamsJSON)
+const categories = getCategories(teamsJSON)
 
 let TeamSelector = ({dispatch}) => (
     <div className="team-selector">
@@ -19,15 +21,17 @@ let TeamSelector = ({dispatch}) => (
             e.target.value = ""
         }}>
             <option value="">-</option>
-            <optgroup label="WorldTour">
-            {teams
-                .filter((team) => team.category === "WorldTour")
-                .map((team) => 
-                <option key={team.code} value={`${team.code}`}>
-                    {team.name}
-                </option>
+            {categories.map((category) => 
+                <optgroup key={category} label={category}>
+                {teams
+                    .filter((team) => team.category === category)
+                    .map((team) => 
+                    <option key={team.code} value={`${team.code}`}>
+                        {team.name}
+                    </option>
+                )}
+                </optgroup>
             )}
-            </optgroup>
         </select>
     </div>
 )
