@@ -2158,6 +2158,162 @@
         "category": "New",
         "roster": []
     },{
+        "code": "AND",
+        "name": "Androni Giocattoli - Sidermec",
+        "country": "ITA",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Marco",
+                "lastname": "Bandiera",
+                "country": "ITA"
+            },{
+                "firstname": "Marco",
+                "lastname": "Benfatto",
+                "country": "ITA"
+            },{
+                "firstname": "Egan Arley",
+                "lastname": "Bernal Gomez",
+                "country": "COL"
+            },{
+                "firstname": "Giorgio",
+                "lastname": "Cecchinel",
+                "country": "ITA"
+            },{
+                "firstname": "Francesco",
+                "lastname": "CHICCHI",
+                "country": "ITA"
+            },{
+                "firstname": "Tiziano",
+                "lastname": "Dall'Antonia",
+                "country": "ITA"
+            },{
+                "firstname": "Marco",
+                "lastname": "Frapporti",
+                "country": "ITA"
+            },{
+                "firstname": "Francesco",
+                "lastname": "Gavazzi",
+                "country": "ITA"
+            },{
+                "firstname": "Yonder",
+                "lastname": "Godoy",
+                "country": "VEN"
+            },{
+                "firstname": "Alberto",
+                "lastname": "Nardini",
+                "country": "ITA"
+            },{
+                "firstname": "Luca",
+                "lastname": "Pacioni",
+                "country": "ITA"
+            },{
+                "firstname": "Franco",
+                "lastname": "Pellizotti",
+                "country": "ITA"
+            },{
+                "firstname": "Daniele",
+                "lastname": "Ratto",
+                "country": "ITA"
+            },{
+                "firstname": "Mirko",
+                "lastname": "Selvaggi",
+                "country": "ITA"
+            },{
+                "firstname": "Alessio",
+                "lastname": "Taliani",
+                "country": "ITA"
+            },{
+                "firstname": "Rodolfo Andres",
+                "lastname": "Torres Agudelo",
+                "country": "COL"
+            },{
+                "firstname": "Serghei",
+                "lastname": "Tvetcov",
+                "country": "ROU"
+            },{
+                "firstname": "Davide",
+                "lastname": "Vigano",
+                "country": "ITA"
+            }
+        ]
+    },{
+        "code": "BAR",
+        "name": "Bardini CSF",
+        "country": "ITA",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Simone",
+                "lastname": "Andreetta",
+                "country": "ITA"
+            },{
+                "firstname": "Enrico",
+                "lastname": "Barbin",
+                "country": "ITA"
+            },{
+                "firstname": "Nicola",
+                "lastname": "Boem",
+                "country": "ITA"
+            },{
+                "firstname": "Francesco Manuel",
+                "lastname": "Bongiorno",
+                "country": "ITA"
+            },{
+                "firstname": "Luca",
+                "lastname": "Chirico",
+                "country": "ITA"
+            },{
+                "firstname": "Giulio",
+                "lastname": "Ciccone",
+                "country": "ITA"
+            },{
+                "firstname": "Sonny",
+                "lastname": "Colbrelli",
+                "country": "ITA"
+            },{
+                "firstname": "Mirco",
+                "lastname": "Maestri",
+                "country": "ITA"
+            },{
+                "firstname": "Stefano",
+                "lastname": "Pirazzi",
+                "country": "ITA"
+            },{
+                "firstname": "Lorenzo",
+                "lastname": "Rota",
+                "country": "ITA"
+            },{
+                "firstname": "Nicola",
+                "lastname": "Ruffoni",
+                "country": "ITA"
+            },{
+                "firstname": "Paolo",
+                "lastname": "Simion",
+                "country": "ITA"
+            },{
+                "firstname": "Luca",
+                "lastname": "Sterbini",
+                "country": "ITA"
+            },{
+                "firstname": "Simone",
+                "lastname": "Sterbini",
+                "country": "ITA"
+            },{
+                "firstname": "Alessandro",
+                "lastname": "Tonelli",
+                "country": "ITA"
+            },{
+                "firstname": "Simone",
+                "lastname": "Velasco",
+                "country": "ITA"
+            },{
+                "firstname": "Edoardo",
+                "lastname": "Zardini",
+                "country": "ITA"
+            }
+        ]
+    },{
         "code": "",
         "name": "",
         "country": "",
