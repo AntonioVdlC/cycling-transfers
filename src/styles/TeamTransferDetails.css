@@ -11,30 +11,3 @@
     padding-left: 5em;
     list-style: none;
 }
-
-.transfer-details-list-element {
-    margin: 0.5em 0em;
-    display: flex;
-    justify-content: space-between;
-}
-.transfer-details-list-element:first-child {
-    padding-top: 0.75em;
-}
-.transfer-details-list-element a {
-    color: black;
-    text-decoration: none;
-}
-
-.rider-flag {
-    height: 1em;
-    width: 1.5em;
-}
-
-.rider-name {
-    flex: 1;
-    margin-left: 1em;
-}
-
-.rider-transfer-team {
-    flex: 0.25;
-}

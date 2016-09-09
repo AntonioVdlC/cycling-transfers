@@ -1,5 +1,7 @@
 import React from "react"
 
+import TeamTransferDetailsListElement from "./../containers/TeamTransferDetailsListElement"
+
 import img from "./../utils/importImage"
 
 import "./../styles/TeamTransferDetails.css"
@@ -10,11 +12,11 @@ const TeamTransferDetails = ({type, transfers}) => (
         <ul className="transfer-details-list">
             {transfers.map((rider, index) => {
                 return (
-                    <li className="transfer-details-list-element" key={type + "-" + index}>
-                        <img className="rider-flag" src={img(`/flags/${rider.country}.svg`)} alt={rider.country} />
-                        <span className="rider-name">{rider.lastname.toUpperCase()} {rider.firstname}</span> 
-                        <span className="rider-transfer-team">{(type === "in") ? ((rider.from.length === 3) ? <a href={`#${rider.from}`}>{rider.from}</a> : rider.from) : (type === "out") ? ((rider.to.length === 3) ? <a href={`#${rider.to}`}>{rider.to}</a> : rider.to) : ""}</span>
-                    </li>
+                    <TeamTransferDetailsListElement 
+                        key={type + "-" + index}
+                        rider={rider}
+                        type={type} 
+                    />
                 )
             })}
         </ul>
