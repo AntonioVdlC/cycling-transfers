@@ -3310,6 +3310,258 @@
             }
         ]
     },{
+        "code": "ONE",
+        "name": "One Pro Cycling",
+        "country": "GBR",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Yanto ",
+                "lastname": "Barker",
+                "country": "GBR"
+            },{
+                "firstname": "Thomas",
+                "lastname": "Baylis",
+                "country": "GBR"
+            },{
+                "firstname": "Marcin",
+                "lastname": "Bialoblocki",
+                "country": "POL"
+            },{
+                "firstname": "Karol",
+                "lastname": "Domagalski",
+                "country": "POL"
+            },{
+                "firstname": "John Kronborg",
+                "lastname": "Ebsen",
+                "country": "DEN"
+            },{
+                "firstname": "Matthew Harley",
+                "lastname": "Goss",
+                "country": "AUS"
+            },{
+                "firstname": "Richard",
+                "lastname": "Handley",
+                "country": "GBR"
+            },{
+                "firstname": "George",
+                "lastname": "Harper",
+                "country": "GBR"
+            },{
+                "firstname": "Kristian",
+                "lastname": "House",
+                "country": "GBR"
+            },{
+                "firstname": "Joshua",
+                "lastname": "Hunt",
+                "country": "GBR"
+            },{
+                "firstname": "Sebastian",
+                "lastname": "Lander",
+                "country": "DEN"
+            },{
+                "firstname": "Hayden",
+                "lastname": "McCormick",
+                "country": "NZL"
+            },{
+                "firstname": "Martin",
+                "lastname": "Mortensen",
+                "country": "DEN"
+            },{
+                "firstname": "Chise",
+                "lastname": "Opie",
+                "country": "GBR"
+            },{
+                "firstname": "James",
+                "lastname": "Oram",
+                "country": "NZL"
+            },{
+                "firstname": "Glenn",
+                "lastname": "O'Shea",
+                "country": "AUS"
+            },{
+                "firstname": "Dion",
+                "lastname": "Smith",
+                "country": "NZL"
+            },{
+                "firstname": "Steele",
+                "lastname": "Von Hoff",
+                "country": "AUS"
+            },{
+                "firstname": "Peter",
+                "lastname": "Williams",
+                "country": "GBR"
+            },{
+                "firstname": "Samuel",
+                "lastname": "Williams",
+                "country": "GBR"
+            }
+        ]
+    },{
+        "code": "ROP",
+        "name": "Roompot - Oranje Peloton",
+        "country": "NED",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Jesper",
+                "lastname": "Asselman",
+                "country": "NED"
+            },{
+                "firstname": "Marc",
+                "lastname": "De Maar",
+                "country": "NED"
+            },{
+                "firstname": "Berden",
+                "lastname": "De Vries",
+                "country": "NED"
+            },{
+                "firstname": "Huub",
+                "lastname": "Duijn",
+                "country": "NED"
+            },{
+                "firstname": "Reinier",
+                "lastname": "Honig",
+                "country": "NED"
+            },{
+                "firstname": "Johnny",
+                "lastname": "Hoogerland",
+                "country": "NED"
+            },{
+                "firstname": "Tim",
+                "lastname": "Kerkhof",
+                "country": "NED"
+            },{
+                "firstname": "Michel",
+                "lastname": "Kreder",
+                "country": "NED"
+            },{
+                "firstname": "Raymond",
+                "lastname": "Kreder",
+                "country": "NED"
+            },{
+                "firstname": "Wesley",
+                "lastname": "Kreder",
+                "country": "NED"
+            },{
+                "firstname": "Maurits",
+                "lastname": "Lammertink",
+                "country": "NED"
+            },{
+                "firstname": "André",
+                "lastname": "Looij",
+                "country": "NED"
+            },{
+                "firstname": "Barry",
+                "lastname": "Marcus",
+                "country": "NED"
+            },{
+                "firstname": "Kai",
+                "lastname": "Reus",
+                "country": "NED"
+            },{
+                "firstname": "Ivar",
+                "lastname": "Slik",
+                "country": "NED"
+            },{
+                "firstname": "Antwan",
+                "lastname": "Tolhoek",
+                "country": "NED"
+            },{
+                "firstname": "Nick",
+                "lastname": "Van Der Lijke",
+                "country": "NED"
+            },{
+                "firstname": "Etienne",
+                "lastname": "Van Empel",
+                "country": "NED"
+            },{
+                "firstname": "Sjoerd",
+                "lastname": "Van Ginneken",
+                "country": "NED"
+            },{
+                "firstname": "Brian",
+                "lastname": "Van Goethem",
+                "country": "NED"
+            },{
+                "firstname": "Pieter",
+                "lastname": "Weening",
+                "country": "NED"
+            }
+        ]
+    },{
+        "code": "SSG",
+        "name": "Stölting Service Group",
+        "country": "GER",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Gerald",
+                "lastname": "Ciolek",
+                "country": "GER"
+            },{
+                "firstname": "Linus",
+                "lastname": "Gerdemann",
+                "country": "GER"
+            },{
+                "firstname": "Rasmus",
+                "lastname": "Guldhammer",
+                "country": "DEN"
+            },{
+                "firstname": "Lasse Norman",
+                "lastname": "Hansen",
+                "country": "DEN"
+            },{
+                "firstname": "Lennard",
+                "lastname": "Kämna",
+                "country": "GER"
+            },{
+                "firstname": "Alexander",
+                "lastname": "Kamp",
+                "country": "DEN"
+            },{
+                "firstname": "Alex",
+                "lastname": "Kirsch",
+                "country": "LUX"
+            },{
+                "firstname": "Thomas",
+                "lastname": "Koep",
+                "country": "GER"
+            },{
+                "firstname": "Romain",
+                "lastname": "Lemarchand",
+                "country": "FRA"
+            },{
+                "firstname": "Mads",
+                "lastname": "Pedersen",
+                "country": "DEN"
+            },{
+                "firstname": "Rasmus Christian",
+                "lastname": "Quaade",
+                "country": "DEN"
+            },{
+                "firstname": "Michael",
+                "lastname": "Reihs",
+                "country": "DEN"
+            },{
+                "firstname": "Sven",
+                "lastname": "Reutter",
+                "country": "GER"
+            },{
+                "firstname": "Michael Carbel",
+                "lastname": "Svendgaard",
+                "country": "DEN"
+            },{
+                "firstname": "Jonas",
+                "lastname": "Tenbrock",
+                "country": "GER"
+            },{
+                "firstname": "Fabian",
+                "lastname": "Wegmann",
+                "country": "GER"
+            }
+        ]
+    },{
         "code": "",
         "name": "",
         "country": "",
