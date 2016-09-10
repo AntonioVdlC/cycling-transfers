@@ -3562,6 +3562,270 @@
             }
         ]
     },{
+        "code": "TNN",
+        "name": "Team Novo Nordisk",
+        "country": "USA",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Mehdi",
+                "lastname": "Benhamouda",
+                "country": "FRA"
+            },{
+                "firstname": "Corentin",
+                "lastname": "Cherhal",
+                "country": "FRA"
+            },{
+                "firstname": "Stephen",
+                "lastname": "Clancy",
+                "country": "IRL"
+            },{
+                "firstname": "Ruud",
+                "lastname": "Cremers",
+                "country": "NED"
+            },{
+                "firstname": "Gerd",
+                "lastname": "De Keijzer",
+                "country": "NED"
+            },{
+                "firstname": "Kevin",
+                "lastname": "De Mesmaeker",
+                "country": "BEL"
+            },{
+                "firstname": "James",
+                "lastname": "Glasspool",
+                "country": "AUS"
+            },{
+                "firstname": "Joonas",
+                "lastname": "Henttala",
+                "country": "FIN"
+            },{
+                "firstname": "Brian",
+                "lastname": "Kamstra",
+                "country": "NED"
+            },{
+                "firstname": "Nicolas",
+                "lastname": "Lefrançois",
+                "country": "FRA"
+            },{
+                "firstname": "David",
+                "lastname": "Lozano Riba",
+                "country": "ESP"
+            },{
+                "firstname": "Javier",
+                "lastname": "Megias Leal",
+                "country": "ESP"
+            },{
+                "firstname": "Andrea",
+                "lastname": "Peron",
+                "country": "ITA"
+            },{
+                "firstname": "Charles",
+                "lastname": "Planet",
+                "country": "FRA"
+            },{
+                "firstname": "Martijn",
+                "lastname": "Verschoor",
+                "country": "NED"
+            },{
+                "firstname": "Christopher",
+                "lastname": "Williams",
+                "country": "AUS"
+            }
+        ]
+    },{
+        "code": "ROT",
+        "name": "Team Roth",
+        "country": "SUI",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Valentin",
+                "lastname": "Baillifard",
+                "country": "SUI"
+            },{
+                "firstname": "Nicolas",
+                "lastname": "Baldo",
+                "country": "FRA"
+            },{
+                "firstname": "David",
+                "lastname": "Belda Garcia",
+                "country": "ESP"
+            },{
+                "firstname": "Nico",
+                "lastname": "Brüngger",
+                "country": "SUI"
+            },{
+                "firstname": "Alberto",
+                "lastname": "Cecchini",
+                "country": "ITA"
+            },{
+                "firstname": "Marco",
+                "lastname": "D'Urbano",
+                "country": "ITA"
+            },{
+                "firstname": "Lucas",
+                "lastname": "Gaday Orozco",
+                "country": "ARG"
+            },{
+                "firstname": "Grischa",
+                "lastname": "Janorschke",
+                "country": "GER"
+            },{
+                "firstname": "Lukas",
+                "lastname": "Jaun",
+                "country": "SUI"
+            },{
+                "firstname": "Martin",
+                "lastname": "Kohler",
+                "country": "SUI"
+            },{
+                "firstname": "Matthias",
+                "lastname": "Krizek",
+                "country": "AUT"
+            },{
+                "firstname": "Tristan",
+                "lastname": "Marguet",
+                "country": "SUI"
+            },{
+                "firstname": "Dylan",
+                "lastname": "Page",
+                "country": "SUI"
+            },{
+                "firstname": "Frank",
+                "lastname": "Pasche",
+                "country": "SUI"
+            },{
+                "firstname": "Andrea",
+                "lastname": "Pasqualon",
+                "country": "ITA"
+            },{
+                "firstname": "Bruno",
+                "lastname": "Pires",
+                "country": "POR"
+            },{
+                "firstname": "Colin",
+                "lastname": "Stüssi",
+                "country": "SUI"
+            },{
+                "firstname": "Roland",
+                "lastname": "Thalmann",
+                "country": "SUI"
+            },{
+                "firstname": "Nicola",
+                "lastname": "Toffali",
+                "country": "ITA"
+            },{
+                "firstname": "Rino",
+                "lastname": "Zampilli",
+                "country": "ITA"
+            },{
+                "firstname": "Andrea",
+                "lastname": "Zordan",
+                "country": "ITA"
+            }
+        ]
+    },{
+        "code": "TSV",
+        "name": "Topsport Vlaanderen - Baloise",
+        "country": "BEL",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Amaury",
+                "lastname": "Capiot",
+                "country": "BEL"
+            },{
+                "firstname": "Kenny",
+                "lastname": "De Ketele",
+                "country": "BEL"
+            },{
+                "firstname": "Moreno",
+                "lastname": "De Pauw",
+                "country": "BEL"
+            },{
+                "firstname": "Floris",
+                "lastname": "De Tier",
+                "country": "BEL"
+            },{
+                "firstname": "Tim",
+                "lastname": "Declerq",
+                "country": "BEL"
+            },{
+                "firstname": "Aimé",
+                "lastname": "Degendt",
+                "country": "BEL"
+            },{
+                "firstname": "Maxime",
+                "lastname": "Farazijn",
+                "country": "BEL"
+            },{
+                "firstname": "Sander",
+                "lastname": "Helven",
+                "country": "BEL"
+            },{
+                "firstname": "Eliot",
+                "lastname": "Lietaer",
+                "country": "BEL"
+            },{
+                "firstname": "Ruben",
+                "lastname": "Pols",
+                "country": "BEL"
+            },{
+                "firstname": "Jonas",
+                "lastname": "Rickaert",
+                "country": "BEL"
+            },{
+                "firstname": "Jarl",
+                "lastname": "Salomein",
+                "country": "BEL"
+            },{
+                "firstname": "Thomas",
+                "lastname": "Sprengers",
+                "country": "BEL"
+            },{
+                "firstname": "Stijn",
+                "lastname": "Steels",
+                "country": "BEL"
+            },{
+                "firstname": "Dries",
+                "lastname": "Van Gestel",
+                "country": "BEL"
+            },{
+                "firstname": "Preben",
+                "lastname": "Van Hecke",
+                "country": "BEL"
+            },{
+                "firstname": "Gijs",
+                "lastname": "Van Hoecke",
+                "country": "BEL"
+            },{
+                "firstname": "Bert",
+                "lastname": "Van Lerberghe",
+                "country": "BEL"
+            },{
+                "firstname": "Jef",
+                "lastname": "Van Meirhaeghe",
+                "country": "BEL"
+            },{
+                "firstname": "Kenneth",
+                "lastname": "Van Rooy",
+                "country": "BEL"
+            },{
+                "firstname": "Pieter",
+                "lastname": "Vanspeybrouck",
+                "country": "BEL"
+            },{
+                "firstname": "Otto",
+                "lastname": "Vergaerde",
+                "country": "BEL"
+            },{
+                "firstname": "Jens",
+                "lastname": "Wallays",
+                "country": "BEL"
+            }
+        ]
+    },{
         "code": "",
         "name": "",
         "country": "",
