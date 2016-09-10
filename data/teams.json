@@ -2790,6 +2790,282 @@
             }
         ]
     },{
+        "code": "DEN",
+        "name": "Direct Energie",
+        "country": "FRA",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Ryan",
+                "lastname": "Anderson",
+                "country": "CAN"
+            },{
+                "firstname": "Thomas",
+                "lastname": "Boudat",
+                "country": "FRA"
+            },{
+                "firstname": "Lilian",
+                "lastname": "Calméjane",
+                "country": "FRA"
+            },{
+                "firstname": "Romain",
+                "lastname": "Cardis",
+                "country": "FRA"
+            },{
+                "firstname": "Sylvin",
+                "lastname": "Chavanel",
+                "country": "FRA"
+            },{
+                "firstname": "Bryan",
+                "lastname": "Coquard",
+                "country": "FRA"
+            },{
+                "firstname": "Jérémy",
+                "lastname": "Cornu",
+                "country": "FRA"
+            },{
+                "firstname": "Antoine",
+                "lastname": "Duchesne",
+                "country": "CAN"
+            },{
+                "firstname": "Yohann",
+                "lastname": "Gene",
+                "country": "FRA"
+            },{
+                "firstname": "Fabien",
+                "lastname": "Grellier",
+                "country": "FRA"
+            },{
+                "firstname": "Romain",
+                "lastname": "Guillemois",
+                "country": "FRA"
+            },{
+                "firstname": "Tony",
+                "lastname": "Hurel",
+                "country": "FRA"
+            },{
+                "firstname": "Fabrice",
+                "lastname": "Jeandesboz",
+                "country": "FRA"
+            },{
+                "firstname": "Brian",
+                "lastname": "Nauleau",
+                "country": "FRA"
+            },{
+                "firstname": "Julien",
+                "lastname": "Morice",
+                "country": "FRA"
+            },{
+                "firstname": "Adrien",
+                "lastname": "Petit",
+                "country": "FRA"
+            },{
+                "firstname": "Alexandre",
+                "lastname": "Pichot",
+                "country": "FRA"
+            },{
+                "firstname": "Perrig",
+                "lastname": "Quemeneur",
+                "country": "FRA"
+            },{
+                "firstname": "Romain",
+                "lastname": "Sicard",
+                "country": "FRA"
+            },{
+                "firstname": "Guillaume",
+                "lastname": "Thévenot",
+                "country": "FRA"
+            },{
+                "firstname": "Angelo",
+                "lastname": "Tulik",
+                "country": "FRA"
+            },{
+                "firstname": "Thomas",
+                "lastname": "Voeckler",
+                "country": "FRA"
+            }
+        ]
+    },{
+        "code": "DPC",
+        "name": "Drapac Professional Cycling",
+        "country": "AUS",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Graeme",
+                "lastname": "Brown",
+                "country": "AUS"
+            },{
+                "firstname": "Brendan",
+                "lastname": "Canty",
+                "country": "AUS"
+            },{
+                "firstname": "Will",
+                "lastname": "Clarke",
+                "country": "AUS"
+            },{
+                "firstname": "Nathan",
+                "lastname": "Earle",
+                "country": "AUS"
+            },{
+                "firstname": "Brad",
+                "lastname": "Evans",
+                "country": "NZL"
+            },{
+                "firstname": "Brenton",
+                "lastname": "Jones",
+                "country": "AUS"
+            },{
+                "firstname": "Jordan",
+                "lastname": "Kerby",
+                "country": "AUS"
+            },{
+                "firstname": "Peter",
+                "lastname": "Koning",
+                "country": "NED"
+            },{
+                "firstname": "Jason",
+                "lastname": "Lowndes",
+                "country": "AUS"
+            },{
+                "firstname": "Gavin",
+                "lastname": "Mannion",
+                "country": "USA"
+            },{
+                "firstname": "Travis",
+                "lastname": "Meyer",
+                "country": "AUS"
+            },{
+                "firstname": "Jens",
+                "lastname": "Mouris",
+                "country": "NED"
+            },{
+                "firstname": "Lachlan",
+                "lastname": "Norris",
+                "country": "AUS"
+            },{
+                "firstname": "Adam",
+                "lastname": "Phelan",
+                "country": "AUS"
+            },{
+                "firstname": "Timothy",
+                "lastname": "Roe",
+                "country": "AUS"
+            },{
+                "firstname": "Thomas",
+                "lastname": "Scully",
+                "country": "NZL"
+            },{
+                "firstname": "Samuel",
+                "lastname": "Spokes",
+                "country": "AUS"
+            },{
+                "firstname": "Bernard",
+                "lastname": "Sulzberger",
+                "country": "AUS"
+            }
+        ]
+    },{
+        "code": "FVC",
+        "name": "Fortuneo - Vital Concept",
+        "country": "FRA",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Jean-Marc",
+                "lastname": "Bideau",
+                "country": "FRA"
+            },{
+                "firstname": "Franck",
+                "lastname": "Bonnamour",
+                "country": "FRA"
+            },{
+                "firstname": "Vegard",
+                "lastname": "Breen",
+                "country": "NOR"
+            },{
+                "firstname": "Frédéric",
+                "lastname": "Brun",
+                "country": "FRA"
+            },{
+                "firstname": "Maxime",
+                "lastname": "Cam",
+                "country": "FRA"
+            },{
+                "firstname": "Anthony",
+                "lastname": "Delaplace",
+                "country": "FRA"
+            },{
+                "firstname": "Pierrick",
+                "lastname": "Fedrigo",
+                "country": "FRA"
+            },{
+                "firstname": "Brice",
+                "lastname": "Feillu",
+                "country": "FRA"
+            },{
+                "firstname": "Armindo",
+                "lastname": "Fonseca",
+                "country": "FRA"
+            },{
+                "firstname": "Arnaud",
+                "lastname": "Gerard",
+                "country": "FRA"
+            },{
+                "firstname": "Jonathan",
+                "lastname": "Hivert",
+                "country": "FRA"
+            },{
+                "firstname": "Yauheni",
+                "lastname": "Hutarovich",
+                "country": "BLR"
+            },{
+                "firstname": "Benoît",
+                "lastname": "Jarrier",
+                "country": "FRA"
+            },{
+                "firstname": "Kévin",
+                "lastname": "Ledanois",
+                "country": "FRA"
+            },{
+                "firstname": "Julien",
+                "lastname": "Loubet",
+                "country": "FRA"
+            },{
+                "firstname": "Daniel",
+                "lastname": "McLay",
+                "country": "GBR"
+            },{
+                "firstname": "Francis",
+                "lastname": "Mourey",
+                "country": "FRA"
+            },{
+                "firstname": "Pierre-Luc",
+                "lastname": "Périchon",
+                "country": "FRA"
+            },{
+                "firstname": "Eduardo",
+                "lastname": "Sepulveda",
+                "country": "ARG"
+            },{
+                "firstname": "Chris Anker",
+                "lastname": "Sörensen",
+                "country": "DEN"
+            },{
+                "firstname": "Steven",
+                "lastname": "Tronet",
+                "country": "FRA"
+            },{
+                "firstname": "Florian",
+                "lastname": "Vachon",
+                "country": "FRA"
+            },{
+                "firstname": "Boris",
+                "lastname": "Vallée",
+                "country": "BEL"
+            }
+        ]
+    },{
         "code": "",
         "name": "",
         "country": "",
