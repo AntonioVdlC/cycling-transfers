@@ -2130,6 +2130,48 @@
         "from": "-",
         "to": "ROP"
     },{
+        "firstname": "Simone",
+        "lastname": "Antonini",
+        "country": "ITA",
+        "from": "WGG",
+        "to": "?"
+    },{
+        "firstname": "Tom",
+        "lastname": "Devriendt",
+        "country": "BEL",
+        "from": "WGG",
+        "to": "WGG"
+    },{
+        "firstname": "Kevin",
+        "lastname": "Van Melsen",
+        "country": "BEL",
+        "from": "WGG",
+        "to": "WGG"
+    },{
+        "firstname": "Xandro",
+        "lastname": "Meurisse",
+        "country": "BEL",
+        "from": "-",
+        "to": "WGG"
+    },{
+        "firstname": "Liam",
+        "lastname": "Bertazzo",
+        "country": "ITA",
+        "from": "WIL",
+        "to": "WIL"
+    },{
+        "firstname": "Matteo",
+        "lastname": "Busato",
+        "country": "ITA",
+        "from": "WIL",
+        "to": "WIL"
+    },{
+        "firstname": "Cristian",
+        "lastname": "Raileanu",
+        "country": "MDA",
+        "from": "-",
+        "to": "WIL"
+    },{
         "firstname": "",
         "lastname": "",
         "country": "",
