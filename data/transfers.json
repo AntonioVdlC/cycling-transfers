@@ -483,7 +483,7 @@
         "firstname": "Rémi",
         "lastname": "Cavagna",
         "country": "FRA",
-        "from": "KLC",
+        "from": "-",
         "to": "EQS"
     },{
         "firstname": "Tim",
@@ -501,13 +501,13 @@
         "firstname": "Enric",
         "lastname": "Mas Nicolau",
         "country": "ESP",
-        "from": "KLC",
+        "from": "-",
         "to": "EQS"
     },{
         "firstname": "Maximilian",
         "lastname": "Schachmann",
         "country": "GER",
-        "from": "KLC",
+        "from": "-",
         "to": "EQS"
     },{
         "firstname": "William",
@@ -1576,7 +1576,7 @@
         "lastname": "Bauer",
         "country": "NZL",
         "from": "CDT",
-        "to": "?"
+        "to": "EQS"
     },{
         "firstname": "Grega",
         "lastname": "Bole",
@@ -1829,6 +1829,18 @@
         "country": "LTU",
         "from": "DMP",
         "to": "DMP"
+    },{
+        "firstname": "Ivan",
+        "lastname": "Garcia Cortina",
+        "country": "ESP",
+        "from": "-",
+        "to": "BAH"
+    },{
+        "firstname": "Niccolo",
+        "lastname": "Bonifazio",
+        "country": "ITA",
+        "from": "TFS",
+        "to": "BAH"
     },{
         "firstname": "",
         "lastname": "",
