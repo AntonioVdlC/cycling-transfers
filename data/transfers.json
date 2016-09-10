@@ -1992,6 +1992,48 @@
         "from": "FVC",
         "to": "FVC"
     },{
+        "firstname": "Ildar",
+        "lastname": "Arslanov",
+        "country": "RUS",
+        "from": "GAZ",
+        "to": "GAZ"
+    },{
+        "firstname": "Alexander",
+        "lastname": "Foliforov",
+        "country": "RUS",
+        "from": "GAZ",
+        "to": "GAZ"
+    },{
+        "firstname": "Roman",
+        "lastname": "Maikin",
+        "country": "RUS",
+        "from": "GAZ",
+        "to": "GAZ"
+    },{
+        "firstname": "Artem",
+        "lastname": "Nych",
+        "country": "RUS",
+        "from": "GAZ",
+        "to": "GAZ"
+    },{
+        "firstname": "Ivan",
+        "lastname": "Savitskiy",
+        "country": "RUS",
+        "from": "GAZ",
+        "to": "GAZ"
+    },{
+        "firstname": "Damiano",
+        "lastname": "Cunego",
+        "country": "ITA",
+        "from": "NIP",
+        "to": "NIP"
+    },{
+        "firstname": "Antonio",
+        "lastname": "Nibali",
+        "country": "ITA",
+        "from": "NIP",
+        "to": "?"
+    },{
         "firstname": "",
         "lastname": "",
         "country": "",

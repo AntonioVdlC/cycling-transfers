@@ -3066,6 +3066,250 @@
             }
         ]
     },{
+        "code": "FSC",
+        "name": "Funvic Soul Cycles - Carrefour",
+        "country": "BRA",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Murilo",
+                "lastname": "Affonso",
+                "country": "BRA"
+            },{
+                "firstname": "Flavio",
+                "lastname": "Cardoso Santos",
+                "country": "BRA"
+            },{
+                "firstname": "Francisco",
+                "lastname": "Chamorro",
+                "country": "ARG"
+            },{
+                "firstname": "Kleber",
+                "lastname": "Da Silva Ramos",
+                "country": "BRA"
+            },{
+                "firstname": "André",
+                "lastname": "De Souza Almeida",
+                "country": "BRA"
+            },{
+                "firstname": "Otavio",
+                "lastname": "Dider Bulgarelli",
+                "country": "BRA"
+            },{
+                "firstname": "Alex",
+                "lastname": "Diniz Correia",
+                "country": "BRA"
+            },{
+                "firstname": "Rodrigo",
+                "lastname": "Dos Santos Quirino",
+                "country": "BRA"
+            },{
+                "firstname": "Nathan Ribeiro",
+                "lastname": "Mahler",
+                "country": "BRA"
+            },{
+                "firstname": "Carlos Alexandre",
+                "lastname": "Manarelli",
+                "country": "BRA"
+            },{
+                "firstname": "Magno Prado",
+                "lastname": "Nazaret",
+                "country": "BRA"
+            },{
+                "firstname": "Pedro Autran Dourado Dutra",
+                "lastname": "Nicacio",
+                "country": "BRA"
+            },{
+                "firstname": "João Marcelo",
+                "lastname": "Pereira Gaspar",
+                "country": "BRA"
+            },{
+                "firstname": "Antonio",
+                "lastname": "Piedra Perez",
+                "country": "ESP"
+            },{
+                "firstname": "Roberto",
+                "lastname": "Pinheiro Da Silva",
+                "country": "BRA"
+            },{
+                "firstname": "Pablo",
+                "lastname": "Urtasun Perez",
+                "country": "ESP"
+            }
+        ]
+    },{
+        "code": "GAZ",
+        "name": "Gazprom-Rusvelo",
+        "country": "RUS",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Ildar",
+                "lastname": "Arslanov",
+                "country": "RUS"
+            },{
+                "firstname": "Igor",
+                "lastname": "Boev",
+                "country": "RUS"
+            },{
+                "firstname": "Artur",
+                "lastname": "Ershov",
+                "country": "RUS"
+            },{
+                "firstname": "Alexander",
+                "lastname": "Evtushenko",
+                "country": "RUS"
+            },{
+                "firstname": "Sergey",
+                "lastname": "Firsanov",
+                "country": "RUS"
+            },{
+                "firstname": "Alexander",
+                "lastname": "Foliforov",
+                "country": "RUS"
+            },{
+                "firstname": "Alexander",
+                "lastname": "Kolobnev",
+                "country": "RUS"
+            },{
+                "firstname": "Alexey",
+                "lastname": "Kurbatov",
+                "country": "RUS"
+            },{
+                "firstname": "Roman",
+                "lastname": "Kustadinshev",
+                "country": "RUS"
+            },{
+                "firstname": "Roman",
+                "lastname": "Maikin",
+                "country": "RUS"
+            },{
+                "firstname": "Viktor",
+                "lastname": "Manakov",
+                "country": "RUS"
+            },{
+                "firstname": "Sergey",
+                "lastname": "Nicolaev",
+                "country": "RUS"
+            },{
+                "firstname": "Artem",
+                "lastname": "Nych",
+                "country": "RUS"
+            },{
+                "firstname": "Artem",
+                "lastname": "Ovechkin",
+                "country": "RUS"
+            },{
+                "firstname": "Aleksey",
+                "lastname": "Rybalkin",
+                "country": "RUS"
+            },{
+                "firstname": "Ivan",
+                "lastname": "Savitskiy",
+                "country": "RUS"
+            },{
+                "firstname": "Alexander",
+                "lastname": "Serov",
+                "country": "RUS"
+            },{
+                "firstname": "Evgeny",
+                "lastname": "Shalunov",
+                "country": "RUS"
+            },{
+                "firstname": "Andrei",
+                "lastname": "Solomennikov",
+                "country": "RUS"
+            },{
+                "firstname": "Mamyr",
+                "lastname": "Stash",
+                "country": "RUS"
+            },{
+                "firstname": "Kiril",
+                "lastname": "Sveshnikov",
+                "country": "RUS"
+            },{
+                "firstname": "Aydar",
+                "lastname": "Zakarin",
+                "country": "RUS"
+            }
+        ]
+    },{
+        "code": "NIP",
+        "name": "Nippo - Vini Fantini",
+        "country": "ITA",
+        "category": "Continental Pro",
+        "roster": [
+            {
+                "firstname": "Giacomo",
+                "lastname": "Berlato",
+                "country": "ITA"
+            },{
+                "firstname": "Alessandro",
+                "lastname": "Bisolti",
+                "country": "ITA"
+            },{
+                "firstname": "Grega",
+                "lastname": "Bole",
+                "country": "SLO"
+            },{
+                "firstname": "Daniele",
+                "lastname": "Colli",
+                "country": "ITA"
+            },{
+                "firstname": "Damiano",
+                "lastname": "Cunego",
+                "country": "ITA"
+            },{
+                "firstname": "Pier Paolo",
+                "lastname": "De Negri",
+                "country": "ITA"
+            },{
+                "firstname": "Iuri",
+                "lastname": "Filosi",
+                "country": "ITA"
+            },{
+                "firstname": "Eduard Michael",
+                "lastname": "Grosu",
+                "country": "ROU"
+            },{
+                "firstname": "Manabu",
+                "lastname": "Ishibashi",
+                "country": "JPN"
+            },{
+                "firstname": "Yuma",
+                "lastname": "Koishi",
+                "country": "JPN"
+            },{
+                "firstname": "Kzushige",
+                "lastname": "Kuboki",
+                "country": "JPN"
+            },{
+                "firstname": "Nicolas",
+                "lastname": "Marini",
+                "country": "ITA"
+            },{
+                "firstname": "Antonio",
+                "lastname": "Nibali",
+                "country": "ITA"
+            },{
+                "firstname": "Riccardo",
+                "lastname": "Stacchiotti",
+                "country": "ITA"
+            },{
+                "firstname": "Antonio",
+                "lastname": "Viola",
+                "country": "ITA"
+            },{
+                "firstname": "Genki",
+                "lastname": "Yamamoto",
+                "country": "JPN"
+            },{
+                "firstname": "Gianfranco",
+                "lastname": "Ziloli",
+                "country": "ITA"
+            }
+        ]
+    },{
         "code": "",
         "name": "",
         "country": "",
