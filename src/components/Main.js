@@ -3,10 +3,10 @@ import React from "react"
 import TeamSelector from "./../containers/TeamSelector"
 import TeamSelected from "./../containers/TeamSelected"
 
-const Main = () => (
+const Main = ({selectedTeam}) => (
     <main className="main">
-        <TeamSelector />
-        <TeamSelected />
+        <TeamSelector selectedTeam={selectedTeam} />
+        <TeamSelected selectedTeam={selectedTeam} />
     </main>
 )
 

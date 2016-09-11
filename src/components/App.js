@@ -5,10 +5,10 @@ import Main from "./Main"
 
 import "./../styles/App.css"
 
-const App = () => (
-    <div className="App">                
+const App = ({params}) => (
+    <div className="App">
         <Header title="Cycling Transfers" />
-        <Main />
+        <Main selectedTeam={params.selectedTeam}/>
     </div>
 )
 

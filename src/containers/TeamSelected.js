@@ -18,8 +18,8 @@ const getSelectedTeamInfo = (teamCode) => {
     }
 }
 
-const mapStateToProps = (state) => {
-    return getSelectedTeamInfo(state.selectedTeam)
+const mapStateToProps = (state, ownProps) => {
+    return getSelectedTeamInfo(ownProps.selectedTeam)
 }
 
 const TeamSelected = connect(

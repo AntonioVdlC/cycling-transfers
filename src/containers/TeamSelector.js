@@ -1,6 +1,9 @@
 import React from "react"
+
 import { connect } from "react-redux"
-import { showTeam } from "./../actions"
+//import { showTeam } from "./../actions"
+
+import { browserHistory } from "react-router"
 
 import teamsJSON from "./../../data/teams.json"
 
@@ -12,13 +15,12 @@ import "./../styles/TeamSelector.css"
 const teams = getTeams(teamsJSON)
 const categories = getCategories(teamsJSON)
 
-let TeamSelector = ({dispatch}) => (
+let TeamSelector = ({selectedTeam, dispatch}) => (
     <div className="team-selector">
         <label htmlFor="team-select">Go to: </label>
-        <select id="team-select" onChange={(e) => {
+        <select id="team-select" value={selectedTeam} onChange={(e) => {
             if(!e.target.value) return
-            dispatch(showTeam(e.target.value))
-            e.target.value = ""
+            browserHistory.push(`/${e.target.value}`)
         }}>
             <option value="">-</option>
             {categories.map((category) => 
