@@ -190,7 +190,7 @@
         "lastname": "Agnoli",
         "country": "ITA",
         "from": "AST",
-        "to": "?"
+        "to": "BAH"
     },{
         "firstname": "Andrea",
         "lastname": "Guardini",
@@ -874,7 +874,7 @@
         "lastname": "Henderson",
         "country": "NZL",
         "from": "LTS",
-        "to": "?"
+        "to": "UHC"
     },{
         "firstname": "Pim",
         "lastname": "Ligthart",
@@ -1258,7 +1258,7 @@
         "lastname": "Henao Montoya",
         "country": "COL",
         "from": "SKY",
-        "to": "?"
+        "to": "SKY"
     },{
         "firstname": "Christian",
         "lastname": "Knees",
@@ -2176,6 +2176,60 @@
         "lastname": "Offredo",
         "country": "FRA",
         "from": "FDJ",
+        "to": "?"
+    },{
+        "firstname": "Kenny",
+        "lastname": "Elissonde",
+        "country": "FRA",
+        "from": "FDJ",
+        "to": "SKY"
+    },{
+        "firstname": "Dmitry",
+        "lastname": "Kozontchuk",
+        "country": "RUS",
+        "from": "KAT",
+        "to": "GAZ"
+    },{
+        "firstname": "Sergey",
+        "lastname": "Chernetski",
+        "country": "RUS",
+        "from": "KAT",
+        "to": "?"
+    },{
+        "firstname": "Vladimir",
+        "lastname": "Isaichev",
+        "country": "RUS",
+        "from": "KAT",
+        "to": "?"
+    },{
+        "firstname": "Alexander",
+        "lastname": "Porsev",
+        "country": "RUS",
+        "from": "KAT",
+        "to": "?"
+    },{
+        "firstname": "Egor",
+        "lastname": "Silin",
+        "country": "RUS",
+        "from": "KAT",
+        "to": "?"
+    },{
+        "firstname": "Alexey",
+        "lastname": "Tsatevich",
+        "country": "RUS",
+        "from": "KAT",
+        "to": "?"
+    },{
+        "firstname": "Eduard",
+        "lastname": "Vorganov",
+        "country": "RUS",
+        "from": "KAT",
+        "to": "?"
+    },{
+        "firstname": "Anton",
+        "lastname": "Vorobev",
+        "country": "RUS",
+        "from": "KAT",
         "to": "?"
     },{
         "firstname": "",
