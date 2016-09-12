@@ -1,0 +1,15 @@
+.team-name {
+    flex: 1 100%;
+}
+
+.team-flag {
+    height: 1.5em;
+    width: 2.25em;
+}
+
+.team-name-title {
+    display: inline;
+    font-size: 1.75em;
+    font-weight: normal;
+    padding-left: 0.25em;
+}

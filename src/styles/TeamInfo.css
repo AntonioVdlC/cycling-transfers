@@ -2,19 +2,10 @@
     flex: 1;
 }
 
-.team-flag {
-    height: 1.5em;
-    width: 2.25em;
-}
-
-.team-name {
-    font-size: 1.75em;
-    padding-left: 0.25em;
-}
-
 .team-shirt {
     width: 33vw;
     max-width: 250px;
     display: block;
+    margin: auto;
     margin-top: 2vh;
 }
