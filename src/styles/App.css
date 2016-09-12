@@ -8,3 +8,8 @@ body {
 .main {
     padding: 1em 1.618em;
 }
+
+.main {
+    max-width: 1024px;
+    margin: auto;
+}
