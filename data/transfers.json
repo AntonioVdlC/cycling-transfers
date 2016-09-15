@@ -1360,7 +1360,7 @@
         "lastname": "Contador Velasco",
         "country": "ESP",
         "from": "TNK",
-        "to": "?"
+        "to": "TFS"
     },{
         "firstname": "Michael",
         "lastname": "Gogl",
@@ -1372,7 +1372,7 @@
         "lastname": "Hernandez Blazquez",
         "country": "ESP",
         "from": "TNK",
-        "to": "?"
+        "to": "TFS"
     },{
         "firstname": "Michal",
         "lastname": "Kolár",
@@ -2297,6 +2297,18 @@
         "country": "SUI",
         "from": "FDJ",
         "to": "FDJ"
+    },{
+        "firstname": "Joey",
+        "lastname": "Rosskopf",
+        "country": "USA",
+        "from": "BMC",
+        "to": "BMC"
+    },{
+        "firstname": "Antoine",
+        "lastname": "Duchesne",
+        "country": "CAN",
+        "from": "DEN",
+        "to": "DEN"
     },{
         "firstname": "",
         "lastname": "",
