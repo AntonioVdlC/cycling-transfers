@@ -1912,7 +1912,7 @@
         "lastname": "Mouris",
         "country": "NED",
         "from": "DPC",
-        "to": "?"
+        "to": "ROP"
     },{
         "firstname": "Lachlan",
         "lastname": "Norris",
@@ -2309,6 +2309,48 @@
         "country": "CAN",
         "from": "DEN",
         "to": "DEN"
+    },{
+        "firstname": "Riccardo",
+        "lastname": "Minali",
+        "country": "ITA",
+        "from": "-",
+        "to": "AST"
+    },{
+        "firstname": "Maxime",
+        "lastname": "Cam",
+        "country": "FRA",
+        "from": "FVC",
+        "to": "?"
+    },{
+        "firstname": "Steven",
+        "lastname": "Tronet",
+        "country": "FRA",
+        "from": "FVC",
+        "to": "?"
+    },{
+        "firstname": "Alex",
+        "lastname": "Aranburu Deba",
+        "country": "ESP",
+        "from": "-",
+        "to": "CJR"
+    },{
+        "firstname": "John Anderson",
+        "lastname": "Rodriguez Salazar",
+        "country": "COL",
+        "from": "-",
+        "to": "DMP"
+    },{
+        "firstname": "Coen",
+        "lastname": "Vermeltfoort",
+        "country": "NED",
+        "from": "-",
+        "to": "ROP"
+    },{
+        "firstname": "Grischa",
+        "lastname": "Janorschke",
+        "country": "GER",
+        "from": "ROT",
+        "to": "-"
     },{
         "firstname": "",
         "lastname": "",
