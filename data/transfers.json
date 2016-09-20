@@ -244,7 +244,7 @@
         "lastname": "Atapuma Hurtado",
         "country": "COL",
         "from": "BMC",
-        "to": "?"
+        "to": "LAM"
     },{
         "firstname": "Brent",
         "lastname": "Bookwalter",
@@ -766,7 +766,7 @@
         "lastname": "Grmay",
         "country": "ETH",
         "from": "LAM",
-        "to": "?"
+        "to": "BAH"
     },{
         "firstname": "Marko",
         "lastname": "Kump",
@@ -1270,7 +1270,7 @@
         "lastname": "König",
         "country": "CZE",
         "from": "SKY",
-        "to": "?"
+        "to": "BOA"
     },{
         "firstname": "David",
         "lastname": "Lopez Garcia",
@@ -1900,7 +1900,7 @@
         "lastname": "Mannion",
         "country": "USA",
         "from": "DPC",
-        "to": "?"
+        "to": "UHC"
     },{
         "firstname": "Travis",
         "lastname": "Meyer",
@@ -1918,7 +1918,7 @@
         "lastname": "Norris",
         "country": "AUS",
         "from": "DPC",
-        "to": "?"
+        "to": "UHC"
     },{
         "firstname": "Adam",
         "lastname": "Phelan",
@@ -2417,6 +2417,132 @@
         "country": "BEL",
         "from": "BMC",
         "to": "BMC"
+    },{
+        "firstname": "Robin",
+        "lastname": "Stenuit",
+        "country": "BEL",
+        "from": "WGG",
+        "to": "WGG"
+    },{
+        "firstname": "Ramunas",
+        "lastname": "Navardauskas",
+        "country": "LTU",
+        "from": "CDT",
+        "to": "BAH"
+    },{
+        "firstname": "John",
+        "lastname": "Murphy",
+        "country": "USA",
+        "from": "UHC",
+        "to": "-"
+    },{
+        "firstname": "Alexander",
+        "lastname": "Cataford",
+        "country": "CAN",
+        "from": "-",
+        "to": "UHC"
+    },{
+        "firstname": "Janier Alexis",
+        "lastname": "Acevedo Colle",
+        "country": "COL",
+        "from": "-",
+        "to": "UHC"
+    },{
+        "firstname": "Lucas Sebastian",
+        "lastname": "Haedo",
+        "country": "ARG",
+        "from": "-",
+        "to": "UHC"
+    },{
+        "firstname": "Travis",
+        "lastname": "McCabe",
+        "country": "USA",
+        "from": "-",
+        "to": "UHC"
+    },{
+        "firstname": "Janez",
+        "lastname": "Brajkovic",
+        "country": "SLO",
+        "from": "UHC",
+        "to": "?"
+    },{
+        "firstname": "Matthew",
+        "lastname": "Busche",
+        "country": "USA",
+        "from": "UHC",
+        "to": "?"
+    },{
+        "firstname": "Marko",
+        "lastname": "Canola",
+        "country": "ITA",
+        "from": "UHC",
+        "to": "?"
+    },{
+        "firstname": "Bradley",
+        "lastname": "White",
+        "country": "USA",
+        "from": "UHC",
+        "to": "-"
+    },{
+        "firstname": "Carlos Eduardo",
+        "lastname": "Alzate Escobar",
+        "country": "COL",
+        "from": "UHC",
+        "to": "UHC"
+    },{
+        "firstname": "Jonathan",
+        "lastname": "Clarke",
+        "country": "AUS",
+        "from": "UHC",
+        "to": "UHC"
+    },{
+        "firstname": "Daniel",
+        "lastname": "Eaton",
+        "country": "USA",
+        "from": "UHC",
+        "to": "UHC"
+    },{
+        "firstname": "Adrian",
+        "lastname": "Hegyvary",
+        "country": "USA",
+        "from": "UHC",
+        "to": "UHC"
+    },{
+        "firstname": "Daniel Alexander",
+        "lastname": "Jaramillo Diez",
+        "country": "COL",
+        "from": "UHC",
+        "to": "UHC"
+    },{
+        "firstname": "Christopher",
+        "lastname": "Jones",
+        "country": "USA",
+        "from": "UHC",
+        "to": "UHC"
+    },{
+        "firstname": "Luke",
+        "lastname": "Keough",
+        "country": "USA",
+        "from": "UHC",
+        "to": "UHC"
+    },{
+        "firstname": "Tanner",
+        "lastname": "Putt",
+        "country": "USA",
+        "from": "UHC",
+        "to": "UHC"
+    },{
+        "firstname": "Daniel",
+        "lastname": "Summerhill",
+        "country": "USA",
+        "from": "UHC",
+        "to": "UHC"
+    },{
+        "firstname": "Karl",
+        "lastname": "Menzies",
+        "country": "AUS",
+        "from": "UHC",
+        "to": "-"
     },{
         "firstname": "",
         "lastname": "",
