@@ -1366,7 +1366,7 @@
         "lastname": "Gogl",
         "country": "AUT",
         "from": "TNK",
-        "to": "?"
+        "to": "TFS"
     },{
         "firstname": "Jesus Alberto",
         "lastname": "Hernandez Blazquez",
@@ -2543,6 +2543,30 @@
         "country": "AUS",
         "from": "UHC",
         "to": "-"
+    },{
+        "firstname": "Rasmus",
+        "lastname": "Guldhammer",
+        "country": "DEN",
+        "from": "SSG",
+        "to": "?"
+    },{
+        "firstname": "Kilian",
+        "lastname": "Frankiny",
+        "country": "SUI",
+        "from": "-",
+        "to": "BMC"
+    },{
+        "firstname": "Josu",
+        "lastname": "Zabala",
+        "country": "ESP",
+        "from": "-",
+        "to": "CJR"
+    },{
+        "firstname": "Lars Petter",
+        "lastname": "Nordhaug",
+        "country": "NOR",
+        "from": "SKY",
+        "to": "?"
     },{
         "firstname": "",
         "lastname": "",
