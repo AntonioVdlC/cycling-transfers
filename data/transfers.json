@@ -196,7 +196,7 @@
         "lastname": "Guardini",
         "country": "ITA",
         "from": "AST",
-        "to": "?"
+        "to": "LAM"
     },{
         "firstname": "Diego",
         "lastname": "Rosa",
@@ -292,7 +292,7 @@
         "lastname": "Phinney",
         "country": "USA",
         "from": "BMC",
-        "to": "?"
+        "to": "CDT"
     },{
         "firstname": "Richie",
         "lastname": "Porte",
@@ -352,7 +352,7 @@
         "lastname": "Cardoso",
         "country": "POR",
         "from": "CDT",
-        "to": "?"
+        "to": "TFS"
     },{
         "firstname": "Joseph Lloyd",
         "lastname": "Dombrowski",
@@ -730,7 +730,7 @@
         "lastname": "Zaugg",
         "country": "SUI",
         "from": "IAM",
-        "to": "?"
+        "to": "-"
     },{
         "firstname": "Matteo",
         "lastname": "Bono",
@@ -886,7 +886,7 @@
         "lastname": "Van Der Sande",
         "country": "BEL",
         "from": "LTS",
-        "to": "?"
+        "to": "LTS"
     },{
         "firstname": "Jelle",
         "lastname": "Vanendert",
@@ -1114,7 +1114,7 @@
         "lastname": "Lagutin",
         "country": "RUS",
         "from": "KAT",
-        "to": "?"
+        "to": "GAZ"
     },{
         "firstname": "Michael",
         "lastname": "Morkov",
@@ -1282,7 +1282,7 @@
         "lastname": "Poels",
         "country": "NED",
         "from": "SKY",
-        "to": "?"
+        "to": "SKY"
     },{
         "firstname": "Salvatore",
         "lastname": "Puccio",
@@ -1456,7 +1456,7 @@
         "lastname": "Arredondo Moreno",
         "country": "COL",
         "from": "TFS",
-        "to": "?"
+        "to": "NIP"
     },{
         "firstname": "Fumiyuki",
         "lastname": "Beppu",
@@ -1528,7 +1528,7 @@
         "lastname": "Zubeldia Agirre",
         "country": "ESP",
         "from": "TFS",
-        "to": "?"
+        "to": "TFS"
     },{
         "firstname": "Yaroslav",
         "lastname": "Popovych",
@@ -1714,7 +1714,7 @@
         "lastname": "Thwaites",
         "country": "GBR",
         "from": "BOA",
-        "to": "?"
+        "to": "DDD"
     },{
         "firstname": "Pascal",
         "lastname": "Ackermann",
@@ -2206,7 +2206,7 @@
         "lastname": "Porsev",
         "country": "RUS",
         "from": "KAT",
-        "to": "?"
+        "to": "GAZ"
     },{
         "firstname": "Egor",
         "lastname": "Silin",
@@ -2248,7 +2248,7 @@
         "lastname": "Marcato",
         "country": "ITA",
         "from": "WGG",
-        "to": "?"
+        "to": "LAM"
     },{
         "firstname": "Nathan",
         "lastname": "Van Hooydonck",
@@ -2566,7 +2566,223 @@
         "lastname": "Nordhaug",
         "country": "NOR",
         "from": "SKY",
+        "to": "ACB"
+    },{
+        "firstname": "Ryan",
+        "lastname": "Anderson",
+        "country": "CAN",
+        "from": "DEN",
+        "to": "DEN"
+    },{
+        "firstname": "Stijn",
+        "lastname": "Steels",
+        "country": "BEL",
+        "from": "TSV",
+        "to": "TSV"
+    },{
+        "firstname": "Stijn",
+        "lastname": "Devolder",
+        "country": "BEL",
+        "from": "TFS",
         "to": "?"
+    },{
+        "firstname": "Oliviero",
+        "lastname": "Troia",
+        "country": "ITA",
+        "from": "-",
+        "to": "LAM"
+    },{
+        "firstname": "Andrea",
+        "lastname": "Pasqualon",
+        "country": "ITA",
+        "from": "ROT",
+        "to": "ROT"
+    },{
+        "firstname": "Fabio",
+        "lastname": "Felline",
+        "country": "ITA",
+        "from": "TFS",
+        "to": "TFS"
+    },{
+        "firstname": "Edward",
+        "lastname": "Planckaert",
+        "country": "BEL",
+        "from": "-",
+        "to": "TSV"
+    },{
+        "firstname": "Vegard",
+        "lastname": "Breen",
+        "country": "NOR",
+        "from": "FVC",
+        "to": "?"
+    },{
+        "firstname": "Fredrik Strand",
+        "lastname": "Galta",
+        "country": "NOR",
+        "from": "DMP",
+        "to": "-"
+    },{
+        "firstname": "Francisco José",
+        "lastname": "Ventoso Alberti",
+        "country": "ESP",
+        "from": "MOV",
+        "to": "BMC"
+    },{
+        "firstname": "Sylwester",
+        "lastname": "Szmyd",
+        "country": "POL",
+        "from": "CCC",
+        "to": "-"
+    },{
+        "firstname": "Imanol",
+        "lastname": "Erviti Ollo",
+        "country": "ESP",
+        "from": "MOV",
+        "to": "MOV"
+    },{
+        "firstname": "Rory",
+        "lastname": "Sutherland",
+        "country": "AUS",
+        "from": "MOV",
+        "to": "MOV"
+    },{
+        "firstname": "Winner Andrew",
+        "lastname": "Anacona Gómez",
+        "country": "COL",
+        "from": "MOV",
+        "to": "MOV"
+    },{
+        "firstname": "Lindsay",
+        "lastname": "De Vylder",
+        "country": "BEL",
+        "from": "-",
+        "to": "TSV"
+    },{
+        "firstname": "Christophe",
+        "lastname": "Noppe",
+        "country": "BEL",
+        "from": "-",
+        "to": "TSV"
+    },{
+        "firstname": "Benjamin",
+        "lastname": "Declerq",
+        "country": "BEL",
+        "from": "-",
+        "to": "TSV"
+    },{
+        "firstname": "Otto",
+        "lastname": "Vergaerde",
+        "country": "BEL",
+        "from": "TSV",
+        "to": "?"
+    },{
+        "firstname": "Davide",
+        "lastname": "Malacarne",
+        "country": "ITA",
+        "from": "AST",
+        "to": "?"
+    },{
+        "firstname": "Laurent",
+        "lastname": "Didier",
+        "country": "LUX",
+        "from": "TFS",
+        "to": "TFS"
+    },{
+        "firstname": "Michel",
+        "lastname": "Kreder",
+        "country": "NED",
+        "from": "ROP",
+        "to": "?"
+    },{
+        "firstname": "Benjamin",
+        "lastname": "King",
+        "country": "USA",
+        "from": "CDT",
+        "to": "DDD"
+    },{
+        "firstname": "Lachlan David",
+        "lastname": "Morton",
+        "country": "AUS",
+        "from": "-",
+        "to": "DDD"
+    },{
+        "firstname": "Nicholas",
+        "lastname": "Schultz",
+        "country": "AUS",
+        "from": "-",
+        "to": "CJR"
+    },{
+        "firstname": "Javier",
+        "lastname": "Moreno Bazan",
+        "country": "ESP",
+        "from": "MOV",
+        "to": "BAH"
+    },{
+        "firstname": "Richard",
+        "lastname": "Carapaz",
+        "country": "ECU",
+        "from": "-",
+        "to": "MOV"
+    },{
+        "firstname": "Victor",
+        "lastname": "De La Parte",
+        "country": "ESP",
+        "from": "CCC",
+        "to": "MOV"
+    },{
+        "firstname": "Boris",
+        "lastname": "Dron",
+        "country": "BEL",
+        "from": "WGG",
+        "to": "-"
+    },{
+        "firstname": "Davide",
+        "lastname": "Cimolai",
+        "country": "ITA",
+        "from": "LAM",
+        "to": "FDJ"
+    },{
+        "firstname": "Matti",
+        "lastname": "Breschel",
+        "country": "DEN",
+        "from": "CDT",
+        "to": "?"
+    },{
+        "firstname": "Caio",
+        "lastname": "Godoy Ormenese",
+        "country": "BRA",
+        "from": "-",
+        "to": "FSC"
+    },{
+        "firstname": "Ricardo",
+        "lastname": "Zoidl",
+        "country": "AUT",
+        "from": "TFS",
+        "to": "?"
+    },{
+        "firstname": "Jack",
+        "lastname": "Bobridge",
+        "country": "AUS",
+        "from": "TFS",
+        "to": "?"
+    },{
+        "firstname": "Matt",
+        "lastname": "Brammeier",
+        "country": "IRL",
+        "from": "DDD",
+        "to": "ACB"
+    },{
+        "firstname": "Conor",
+        "lastname": "Dunne",
+        "country": "IRL",
+        "from": "-",
+        "to": "ACB"
+    },{
+        "firstname": "Martyn",
+        "lastname": "Irvine",
+        "country": "IRL",
+        "from": "-",
+        "to": "ACB"
     },{
         "firstname": "",
         "lastname": "",
