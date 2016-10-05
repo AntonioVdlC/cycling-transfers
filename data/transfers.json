@@ -646,7 +646,7 @@
         "lastname": "Hollenstein",
         "country": "SUI",
         "from": "IAM",
-        "to": "?"
+        "to": "KAT"
     },{
         "firstname": "Leigh",
         "lastname": "Howard",
@@ -664,7 +664,7 @@
         "lastname": "Laengen",
         "country": "NOR",
         "from": "IAM",
-        "to": "?"
+        "to": "LAM"
     },{
         "firstname": "Pirmin",
         "lastname": "Lang",
@@ -2194,7 +2194,7 @@
         "lastname": "Chernetski",
         "country": "RUS",
         "from": "KAT",
-        "to": "?"
+        "to": "AST"
     },{
         "firstname": "Vladimir",
         "lastname": "Isaichev",
@@ -2746,7 +2746,7 @@
         "lastname": "Breschel",
         "country": "DEN",
         "from": "CDT",
-        "to": "?"
+        "to": "AST"
     },{
         "firstname": "Caio",
         "lastname": "Godoy Ormenese",
@@ -2783,6 +2783,72 @@
         "country": "IRL",
         "from": "-",
         "to": "ACB"
+    },{
+        "firstname": "Andrea",
+        "lastname": "Fedi",
+        "country": "ITA",
+        "from": "WIL",
+        "to": "WIL"
+    },{
+        "firstname": "Romain",
+        "lastname": "Guillemois",
+        "country": "FRA",
+        "from": "DEN",
+        "to": "DEN"
+    },{
+        "firstname": "Bjorn",
+        "lastname": "Thurau",
+        "country": "GER",
+        "from": "WGG",
+        "to": "?"
+    },{
+        "firstname": "Pello",
+        "lastname": "Bilbao Lopez De Armentia",
+        "country": "ESP",
+        "from": "CJR",
+        "to": "AST"
+    },{
+        "firstname": "Zhandos",
+        "lastname": "Bizhigitov",
+        "country": "KAZ",
+        "from": "-",
+        "to": "AST"
+    },{
+        "firstname": "Rodrigo",
+        "lastname": "Contreras",
+        "country": "COL",
+        "from": "EQS",
+        "to": "?"
+    },{
+        "firstname": "Maxim",
+        "lastname": "Belkov",
+        "country": "RUS",
+        "from": "KAT",
+        "to": "KAT"
+    },{
+        "firstname": "Pavel",
+        "lastname": "Kochetkov",
+        "country": "RUS",
+        "from": "KAT",
+        "to": "KAT"
+    },{
+        "firstname": "Alberto",
+        "lastname": "Losada Alguacil",
+        "country": "ESP",
+        "from": "KAT",
+        "to": "KAT"
+    },{
+        "firstname": "Angel",
+        "lastname": "Vicioso Arcos",
+        "country": "ESP",
+        "from": "KAT",
+        "to": "KAT"
+    },{
+        "firstname": "Tiago",
+        "lastname": "Machado",
+        "country": "POR",
+        "from": "KAT",
+        "to": "KAT"
     },{
         "firstname": "",
         "lastname": "",
