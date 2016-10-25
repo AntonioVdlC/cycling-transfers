@@ -718,7 +718,7 @@
         "lastname": "Warbasse",
         "country": "USA",
         "from": "IAM",
-        "to": "?"
+        "to": "ABS"
     },{
         "firstname": "Marcel",
         "lastname": "Wyss",
@@ -1126,7 +1126,7 @@
         "lastname": "Rodriguez Oliver",
         "country": "ESP",
         "from": "KAT",
-        "to": "-"
+        "to": "BAH"
     },{
         "firstname": "Jurgen",
         "lastname": "Van Den Broeck",
@@ -1246,7 +1246,7 @@
         "lastname": "Fenn",
         "country": "GBR",
         "from": "SKY",
-        "to": "?"
+        "to": "ABS"
     },{
         "firstname": "Christopher",
         "lastname": "Froome",
@@ -1336,7 +1336,7 @@
         "lastname": "Blythe",
         "country": "GBR",
         "from": "TNK",
-        "to": "?"
+        "to": "ABS"
     },{
         "firstname": "Manuele",
         "lastname": "Boaro",
@@ -2032,7 +2032,7 @@
         "lastname": "Nibali",
         "country": "ITA",
         "from": "NIP",
-        "to": "?"
+        "to": "BAH"
     },{
         "firstname": "Yanto",
         "lastname": "Barker",
@@ -3100,7 +3100,7 @@
         "lastname": "Brun",
         "country": "FRA",
         "from": "FVC",
-        "to": "?"
+        "to": "-"
     },{
         "firstname": "Yauheni",
         "lastname": "Hutarovich",
@@ -3261,6 +3261,120 @@
         "firstname": "Rasmus Christian",
         "lastname": "Quaade",
         "country": "DEN",
+        "from": "SSG",
+        "to": "-"
+    },{
+        "firstname": "Josef",
+        "lastname": "Cerny",
+        "country": "CZE",
+        "from": "CCC",
+        "to": "-"
+    },{
+        "firstname": "Michal",
+        "lastname": "Schlegel",
+        "country": "CZE",
+        "from": "-",
+        "to": "CCC"
+    },{
+        "firstname": "Christophe",
+        "lastname": "Laporte",
+        "country": "FRA",
+        "from": "DMP",
+        "to": "-"
+    },{
+        "firstname": "Songezo",
+        "lastname": "Jim",
+        "country": "RSA",
+        "from": "DDD",
+        "to": "?"
+    },{
+        "firstname": "Daniel",
+        "lastname": "Pearson",
+        "country": "GBR",
+        "from": "-",
+        "to": "ABS"
+    },{
+        "firstname": "Mark",
+        "lastname": "Christian",
+        "country": "GBR",
+        "from": "-",
+        "to": "ABS"
+    },{
+        "firstname": "Kristoffer",
+        "lastname": "Skjerping",
+        "country": "NOR",
+        "from": "CDT",
+        "to": "?"
+    },{
+        "firstname": "Pietr",
+        "lastname": "Allegaert",
+        "country": "BEL",
+        "from": "-",
+        "to": "TSV"
+    },{
+        "firstname": "Kevin",
+        "lastname": "Deltombe",
+        "country": "BEL",
+        "from": "-",
+        "to": "TSV"
+    },{
+        "firstname": "Hector",
+        "lastname": "Carretero",
+        "country": "ESP",
+        "from": "-",
+        "to": "MOV"
+    },{
+        "firstname": "David",
+        "lastname": "Per",
+        "country": "SLO",
+        "from": "-",
+        "to": "BAH"
+    },{
+        "firstname": "Masakazu",
+        "lastname": "Ito",
+        "country": "JPN",
+        "from": "-",
+        "to": "NIP"
+    },{
+        "firstname": "Hideto",
+        "lastname": "Nakane",
+        "country": "JPN",
+        "from": "-",
+        "to": "NIP"
+    },{
+        "firstname": "Kohei",
+        "lastname": "Uchima",
+        "country": "JPN",
+        "from": "-",
+        "to": "NIP"
+    },{
+        "firstname": "Chris",
+        "lastname": "Opie",
+        "country": "GBR",
+        "from": "ONE",
+        "to": "?"
+    },{
+        "firstname": "Fredrik",
+        "lastname": "Ludvigsson",
+        "country": "SWE",
+        "from": "TGA",
+        "to": "?"
+    },{
+        "firstname": "Dennis",
+        "lastname": "Van Winden",
+        "country": "NED",
+        "from": "TLJ",
+        "to": "-"
+    },{
+        "firstname": "Antonio",
+        "lastname": "Piedra Perez",
+        "country": "ESP",
+        "from": "FSC",
+        "to": "-"
+    },{
+        "firstname": "Jonas",
+        "lastname": "Tenbrock",
+        "country": "GER",
         "from": "SSG",
         "to": "-"
     },{
